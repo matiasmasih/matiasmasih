@@ -47,7 +47,10 @@
 </p>
 
 ---
-
+### 🧩 Top Language
+<p align="center">
+  ![Top Language](https://img.shields.io/badge/Top%20Language-PHP-00F5FF?style=for-the-badge)
+</p>
 ---
 
 ## 🚀 Featured Projects
