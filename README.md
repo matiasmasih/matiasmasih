@@ -65,14 +65,12 @@
 </p>
 
 ---
-
 ### 🏆 Profile Stats & Badges
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20GitHub%20%7C%20PHPStorm-lightgrey?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=👀%20Profile%20Views&color=1D3557&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻%20Focus-Web%20Development-00F5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠%20Tools-VSCode%20%7C%20GitHub%20%7C%20PHPStorm-ff006e?style=for-the-badge" />
 </p>
-
 ---
 
 ### 💡 Quote
