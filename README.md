@@ -80,7 +80,6 @@
 
 ### 🎨 Design Tip
 You can also add a banner image at the very top for a personal brand:
-```html
 <p align="center">
-  <img src="https://github.com/matiasmasih/matiasmasih/blob/main/assets/banner.png" width="100%" alt="Aziz Rahman Noyan Banner"/>
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/banner.png" width="100%" alt="Aziz Rahman Noyan Banner"/>
 </p>
