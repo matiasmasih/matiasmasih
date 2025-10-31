@@ -80,6 +80,13 @@
 
 ### 🎨 Design Tip
 You can also add a banner image at the very top for a personal brand:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/banner.png" width="100%" alt="Aziz Rahman Noyan Banner"/>
-</p>
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 60px 20px; border-radius: 10px; color: white;">
+  <h1 style="font-size: 3rem; margin: 0; font-weight: 800;">AZIZ RAHMAN NOYAN</h1>
+  <p style="font-size: 1.5rem; margin: 10px 0; opacity: 0.9;">Software Developer | Tech Enthusiast</p>
+  <div style="margin-top: 20px;">
+    <span style="background: rgba(255,255,255,0.2); padding: 8px 20px; border-radius: 25px; margin: 0 8px; font-size: 0.9rem;">PHP</span>
+    <span style="background: rgba(255,255,255,0.2); padding: 8px 20px; border-radius: 25px; margin: 0 8px; font-size: 0.9rem;">JavaScript</span>
+    <span style="background: rgba(255,255,255,0.2); padding: 8px 20px; border-radius: 25px; margin: 0 8px; font-size: 0.9rem;">MySQL</span>
+    <span style="background: rgba(255,255,255,0.2); padding: 8px 20px; border-radius: 25px; margin: 0 8px; font-size: 0.9rem;">Web Development</span>
+  </div>
+</div>
