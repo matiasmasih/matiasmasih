@@ -49,7 +49,7 @@
 ---
 ### 🧩 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats-git-master-matiasmasihs-projects.vercel.app/api/top-langs/?username=matiasmasih&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-master-matiasmasihs-projects.vercel.app/api/top-langs/?username=matiasmasih&count_private=true&theme=tokyonight"/>
 </p>
 
 
