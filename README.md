@@ -1,6 +1,6 @@
-<!-- 🌟 Modern GitHub Profile by Aziz Rahman Noyan -->
-<h1 align="center">Hi 👋, I'm Aziz Rahman Noyan</h1>
-<h3 align="center">🚀 Passionate Software Developer | Student | Tech Enthusiast</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Screenshot 2025-10-31 140915.jpg" width="100%" alt="Aziz Rahman Noyan Banner"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Software+Developer;Frontend+Engineer;PHP+%7C+MySQL+%7C+JavaScript+Lover;Building+Modern+Web+Applications" alt="Typing SVG" />
@@ -78,8 +78,3 @@
 
 ---
 
-### 🎨 Design Tip
-You can also add a banner image at the very top for a personal brand:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Screenshot 2025-10-31 140915.jpg" width="100%" alt="Aziz Rahman Noyan Banner"/>
-</p>
