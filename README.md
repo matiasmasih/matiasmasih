@@ -80,4 +80,6 @@
 
 ### 🎨 Design Tip
 You can also add a banner image at the very top for a personal brand:
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Screenshot 2025-10-31 140915.jpg" width="100%" alt="Aziz Rahman Noyan Banner"/>
+</p>
