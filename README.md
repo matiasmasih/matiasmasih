@@ -48,11 +48,6 @@
 
 ---
 
-## 🧩 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matiasmasih&layout=compact&theme=tokyonight&hide_border=true&token=YOUR_TOKEN" width="45%"/>
-</p>
-
 ---
 
 ## 🚀 Featured Projects
