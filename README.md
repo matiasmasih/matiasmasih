@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Developer;Frontend+Engineer;PHP+%7C+MySQL+%7C+JavaScript+Lover;Building+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Developer;Frontend+Engineer;PHP+%7C+MySQL+%7C+JavaScript+Lover;Building+Modern+Web+Apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,14 +28,14 @@
 
 ## 🧠 About Me
 💻 I’m a **Software Development Student** passionate about crafting **modern, elegant, and functional** web apps.  
-✨ My expertise: **PHP + MySQL**, **JavaScript**, **Bootstrap**, and **responsive design**.  
-🚀 Currently improving **real-time apps**, **UI/UX**, and **dashboard systems**.
+✨ Expertise: **PHP + MySQL**, **JavaScript**, **Bootstrap**, **Node.js**, **Socket.IO**, **REST APIs**.  
+🚀 Currently improving **real-time apps**, **UI/UX dashboards**, and **full-stack systems**.
 
 ---
 
 ## 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,vscode,github," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,nodejs,express,git,vscode,github" />
 </p>
 
 ---
@@ -47,18 +47,19 @@
 </p>
 
 ---
-### 🧩 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats-jypv.vercel.app/api/top-langs/?username=matiasmasih&count_private=true&theme=tokyonight" />
-</p>
----
 
 ## 🚀 Featured Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| 🏥 **Hospital Management System** | Modern healthcare dashboard | [GitHub](https://github.com/matiasmasih/hospital-management) |
-| 📦 **WarehousePro** | Full warehouse inventory system | [GitHub](https://github.com/matiasmasih/warehousepro) |
-| 💬 **Real-time Chat App** | Node.js + Socket.IO chat platform | [GitHub](https://github.com/matiasmasih/chat-app) |
+<p align="center">
+  <a href="https://github.com/matiasmasih/hospital-management" target="_blank">
+    <img src="https://img.shields.io/badge/🏥+Hospital%20Management-View%20Project-00F5FF?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/matiasmasih/warehousepro" target="_blank">
+    <img src="https://img.shields.io/badge/📦+WarehousePro-View%20Project-00F5FF?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/matiasmasih/chat-app" target="_blank">
+    <img src="https://img.shields.io/badge/💬+Real-time%20Chat-View%20Project-00F5FF?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
