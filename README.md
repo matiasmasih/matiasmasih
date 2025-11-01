@@ -79,7 +79,7 @@
 
 <!-- Bottom Banner / Business Card -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business.jpg" width="100%" alt="Business Card"/>
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="100%" alt="Business Card"/>
 </p>
 
 ---
