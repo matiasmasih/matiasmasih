@@ -77,5 +77,11 @@
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/" width="100%" alt="Aziz Rahman Noyan Banner"/>
+</p>
+
+---
+
+<p align="center">
   <i>Designed with ❤️ using modern GitHub README techniques</i>
 </p>
