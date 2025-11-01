@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
   
   <!-- Recent contributions graph -->
-  <img src="https://ghchart.rshah.org/00F5FF/matiasmasih" width="48%" alt="GitHub Activity Graph"/>
+  <img src="https://gh-contributions.vercel.app/api?username=matiasmasih&bg_color=1d3557&color=00f5ff&line=ff006e&point=ff006e" width="48%"/>
 </p>
 ---
 
