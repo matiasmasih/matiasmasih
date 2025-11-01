@@ -42,11 +42,16 @@
 
 ## 📊 GitHub Stats 
 <p align="center">
-  <!-- Combined GitHub stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%"/>
   
-  <!-- Recent contributions graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=matiasmasih&theme=react-dark&hide_border=true" width="48%" alt="GitHub Recent Activity"/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=matiasmasih&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true&area=true" width="90%"/>
 </p>
 ---
 
