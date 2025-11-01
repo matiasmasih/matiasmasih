@@ -47,6 +47,9 @@
   
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=matiasmasih&theme=tokyonight&hide_border=true" width="45%"/>
+
+    <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=matiasmasih&theme=tokyonight&hide_border=true" width="48%"/>
   
 </p>
 ---
