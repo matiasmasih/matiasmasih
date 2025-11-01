@@ -76,8 +76,10 @@
 
 ---
 
+
+<!-- Bottom Banner / Business Card -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business.jpg" width="100%" alt="Aziz Rahman Noyan Banner"/>
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business.jpg" width="100%" alt="Business Card"/>
 </p>
 
 ---
