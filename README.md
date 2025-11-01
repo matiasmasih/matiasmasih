@@ -46,10 +46,8 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
   
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=matiasmasih&theme=tokyonight&hide_border=true" width="32%"/>
+  <img src="https://streak-stats.demolab.com?user=matiasmasih&theme=tokyonight&hide_border=true" width="45%"/>
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmasih&layout=compact&theme=tokyonight&hide_border=true" width="32%"/>
 </p>
 ---
 
