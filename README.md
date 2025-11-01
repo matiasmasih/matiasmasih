@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
   
   <!-- Recent contributions graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=matiasmasih&theme=react-dark&hide_border=true" width="48%" alt="GitHub Recent Activity"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=matiasmasih&theme=react-dark&hide_border=true" width="48%" alt="GitHub Recent Activity"/>
 </p>
 ---
 
