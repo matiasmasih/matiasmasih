@@ -39,13 +39,11 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=matiasmasih&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=matiasmasih&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 ---
 
 ## 🧩 Top Languages
@@ -79,11 +77,10 @@
 
 ## 🏆 Profile Stats & Badges
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=👀 Profile%20Views&color=1D3557&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻 Focus-Web%20Development-00F5FF?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/💻%20Focus-Web%20Development-00F5FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🛠 Tools-VSCode%20%7C%20GitHub%20%7C%20PHPStorm-ff006e?style=for-the-badge" />
 </p>
-
 ---
 
 <p align="center">
