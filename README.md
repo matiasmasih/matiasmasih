@@ -49,9 +49,19 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius:10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="border-radius:10px;"/>
+
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-bottom:20px;">
+
+  <!-- GitHub Stats Card -->
+  <div style="background: linear-gradient(145deg,#1D3557,#457B9D); border-radius:15px; padding:20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius:12px;"/>
+  </div>
+
+  <!-- GitHub Streak Card -->
+  <div style="background: linear-gradient(145deg,#000000,#2C2C2C); border-radius:15px; padding:20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="border-radius:12px;"/>
+  </div>
+
 </div>
 
 ---
