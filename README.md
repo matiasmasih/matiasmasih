@@ -55,22 +55,15 @@
 </div>
 
 ---
-
-## 🚀 Featured Projects
-<div style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
-<p align="center">
-  <b>🏥 Hospital Management</b> — <a href="https://github.com/matiasmasih/hospital-management">GitHub</a><br>
-  Modern healthcare dashboard
-</p>
-<p align="center">
-  <b>📦 WarehousePro</b> — <a href="https://github.com/matiasmasih/warehousepro">GitHub</a><br>
-  Full inventory system
-</p>
-<p align="center">
-  <b>💬 Chat App</b> — <a href="https://github.com/matiasmasih/chat-app">GitHub</a><br>
-  Node.js + Socket.IO real-time chat
-</p>
-</div>
+## 🚀 Featured Projects 
+| Project | Description | Link | 
+|---------|-------------|------| 
+| 🏥 **Hospital Management System** 
+| Modern healthcare dashboard | [GitHub](https://github.com/matiasmasih/hospital-management) | 
+| 📦 **WarehousePro** 
+| Full warehouse inventory system | [GitHub](https://github.com/matiasmasih/warehousepro) | 
+| 💬 **Real-time Chat App** 
+| Node.js + Socket.IO chat platform | [GitHub](https://github.com/matiasmasih/chat-app) |
 
 ---
 
