@@ -50,8 +50,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-bottom:20px;">
-
+<div align="leftr" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-bottom:20px;">
   <!-- GitHub Stats Card -->
   <div style="background: linear-gradient(145deg,#1D3557,#457B9D); border-radius:15px; padding:20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius:12px;"/>
