@@ -1,10 +1,5 @@
 # 🌟 Aziz Rahman Noyan — Software Developer
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Screenshot%202025-10-31%20140915.jpg" alt="Banner" width="100%"/>
-</p>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F5FF&center=true&width=650&lines=Hi!+I'm+Aziz+Rahman+Noyan;I+build+modern+web+apps;PHP+%2B+MySQL+%2B+JavaScript" alt="Typing SVG" />
@@ -23,9 +18,9 @@
   <a href="https://github.com/matiasmasih" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1D3557?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
- <a href="https://x.com/matiasmasih" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+  <a href="https://x.com/matiasmasih" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </div>
 
 ---
@@ -39,18 +34,18 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,react,nodejs,vscode,github" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 ---
@@ -80,17 +75,11 @@
 
 ---
 
-## 🏆 Profile Stats & Badges 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=👀%20Profile%20Views&color=1D3557&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/💻%20Focus-Web%20Development-00F5FF?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/🛠%20Tools-VSCode%20%7C%20GitHub%20%7C%20PHPStorm-ff006e?style=for-the-badge"/>
-</p>
----
-
-<!-- Business Card -->
+## 🏆 Profile Stats & Badges
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="100%" alt="Business Card"/>
+  <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=Profile+Views&color=blue&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻-Web%20Development-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🛠-VSCode%20|%20PHPStorm%20|%20GitHub-ff006e?style=for-the-badge"/>
 </p>
 
 <p align="center"><i>Designed with ❤️ using modern GitHub README techniques</i></p>
