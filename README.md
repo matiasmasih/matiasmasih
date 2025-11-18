@@ -47,6 +47,9 @@
 <p align="center">  
   <img src="https://github-readme-stats-academic.vercel.app/api/academic?username=matiasmasih&theme=tokyonight" alt="GitHub Academic Stats" />  
 </p>
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=matiasmasishere&color=1D3557&style=for-the-badge" alt="Profile Views" />  
+</p>
 
 
 ## 🚀 Featured Projects
