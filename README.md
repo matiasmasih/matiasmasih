@@ -90,6 +90,33 @@
   </tr>
 </table>
 
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; max-width:900px; margin:auto;">
+
+  <!-- Card 1: Top Language -->
+  <div style="flex:1; min-width:250px; background: linear-gradient(135deg,#1D3557,#457B9D); border-radius:15px; padding:20px; box-shadow:0 8px 20px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#fff;">Top Language</h3>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Top Language"/>
+  </div>
+
+  <!-- Card 2: Most Starred Repo -->
+  <div style="flex:1; min-width:250px; background: linear-gradient(135deg,#FF6B6B,#FFD93D); border-radius:15px; padding:20px; box-shadow:0 8px 20px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#111;">Most Starred Repo</h3>
+    <a href="https://github.com/matiasmasih/warehousepro">
+      <img src="https://img.shields.io/badge/WarehousePro-⭐5?style=for-the-badge&logo=github&logoColor=white" alt="Most Starred Repo"/>
+    </a>
+  </div>
+
+  <!-- Card 3: Open PRs -->
+  <div style="flex:1; min-width:250px; background: linear-gradient(135deg,#0d1117,#222831); border-radius:15px; padding:20px; box-shadow:0 8px 20px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#00F5FF;">Open PRs</h3>
+    <img src="https://img.shields.io/badge/PRs-0-brightgreen?style=for-the-badge" alt="Open PRs"/>
+  </div>
+
+</div>
 
 ---
 ## 🚀 Featured Projects 
