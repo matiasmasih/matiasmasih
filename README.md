@@ -34,7 +34,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,react,nodejs,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,vscode,github" />
 </p>
 
 ---
@@ -43,8 +43,6 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
