@@ -1,4 +1,4 @@
-# 🌟 Aziz Rahman Noyan — Software Developer
+#  💻 Aziz Rahman Noyan 
 
 <!-- Banner Image --> 
 <p align="center"> 
