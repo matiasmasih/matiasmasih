@@ -23,9 +23,9 @@
   <a href="https://github.com/matiasmasih" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1D3557?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://x.com/matiasmasih" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+ <a href="https://twitter.com/matiasmasih" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 </div>
 
 ---
