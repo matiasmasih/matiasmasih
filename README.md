@@ -45,7 +45,7 @@
   <!-- Combined GitHub stats -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=matiasmasih&theme=tokyonight&hide_border=true" width="48%"/>
   
 </p>
 
