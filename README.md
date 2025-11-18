@@ -39,13 +39,11 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats 
+## 📊 GitHub Activity
 <p align="center">
-  <a href="https://github.com/matiasmasih">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmasih&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
+  💻 <strong>Active Developer</strong> | 🌱 <strong>Always Learning</strong> | 🚀 <strong>Building Projects</strong>
+  <br>
+  <i>Check my repositories below for recent work →</i>
 </p>
 ---
 
