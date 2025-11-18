@@ -41,8 +41,10 @@
 ---
 ## 📊 GitHub Activity
 <p align="center"> 
-  <!-- Combined GitHub stats - UPDATED WITH WORKING URLS -->
-  <img src="https://github-readme-stats.vercel.app/api username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" width="48%" alt="GitHub Stats"/> <img src="https://streak-stats.demolab.com/?user=matiasmasih&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF" width="48%" alt="GitHub Streak"/> </p>
+  <!-- Combined GitHub stats --> 
+<img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/> 
+  <img src="https://streak-stats.demolab.com/?user=matiasmasih&theme=tokyonight&hide_border=true" width="48%"/> 
+</p>
 ---
 
 ## 🚀 Featured Projects
