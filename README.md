@@ -7,85 +7,80 @@
 
 ---
 
-## 🌐 Connect with Me 
-<div align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap:nowrap;"> 
-  <a href="https://linkedin.com/in/aziz-rahman-noyan-201596264" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-  </a> 
-  <a href="mailto:matiasmasih@gmail.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
-  </a> 
-  <a href="https://github.com/matiasmasih" target="_blank"> 
-    <img src="https://img.shields.io/badge/GitHub-1D3557?style=for-the-badge&logo=github&logoColor=white"/> 
-  </a> 
-  <a href="https://x.com/matiasmasih" target="_blank"> 
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/> 
-  </a> 
+## 🌐 Connect with Me
+<div align="center" style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+  <a href="https://linkedin.com/in/aziz-rahman-noyan-201596264" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:matiasmasih@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/matiasmasih" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1D3557?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/matiasmasih" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
 ## 🧠 About Me
+<div style="border:2px solid #1D3557; border-radius:15px; padding:15px; background-color:#0d1117; margin-bottom:20px;">
 - 💻 Software Development Student  
 - ✨ Passionate about **modern web apps, real-time systems, and UI/UX design**  
 - 🚀 Working on **PHP, MySQL, JavaScript, and responsive dashboards**  
+</div>
 
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,vscode,github" />
-</p>
+<div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,react,nodejs,vscode,github" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <td align="right">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius:10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="border-radius:10px;"/>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
+<div style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
 <p align="center">
   <b>🏥 Hospital Management</b> — <a href="https://github.com/matiasmasih/hospital-management">GitHub</a><br>
   Modern healthcare dashboard
 </p>
-
 <p align="center">
   <b>📦 WarehousePro</b> — <a href="https://github.com/matiasmasih/warehousepro">GitHub</a><br>
   Full inventory system
 </p>
-
 <p align="center">
   <b>💬 Chat App</b> — <a href="https://github.com/matiasmasih/chat-app">GitHub</a><br>
   Node.js + Socket.IO real-time chat
 </p>
+</div>
 
 ---
 
 ## ⚡ Activity
+<div style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true" width="90%" />
 </p>
+</div>
 
 ---
 
-## 🏆 Profile Stats & Badges 
-<p align="center"> 
+## 🏆 Profile Stats & Badges
+<div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117;">
   <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=👀%20Profile%20Views&color=1D3557&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/💻%20Focus-Web%20Development-00F5FF?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/🛠%20Tools-VSCode%20%7C%20GitHub%20%7C%20PHPStorm-ff006e?style=for-the-badge"/> 
-</p>
-
----
+  <img src="https://img.shields.io/badge/🛠%20Tools-VSCode%20|%20GitHub%20|%20PHPStorm-ff006e?style=for-the-badge"/>
+</div>
 
 <p align="center"><i>Designed with ❤️ using modern GitHub README techniques</i></p>
