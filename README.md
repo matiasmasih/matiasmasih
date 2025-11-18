@@ -92,44 +92,38 @@
 
 ---
 
-## 📊 My GitHub Dashboard
+## 📊 GitHub Stats Overview
 
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; max-width:1000px; margin:auto;">
+<div align="center" style="max-width:700px; margin:auto;">
 
-  <!-- Total Repos -->
-  <div style="flex:1; min-width:200px; background: linear-gradient(135deg,#6C63FF,#3F37C9); padding:20px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#fff;">📂 Total Repos</h3>
-    <p style="color:#fff; font-size:24px; font-weight:bold;">99</p>
+  <b>Total Repos</b>
+  <div style="background:#111827; border-radius:12px; padding:4px; margin-bottom:10px;">
+    <div style="width:90%; background: linear-gradient(90deg,#6C63FF,#3F37C9); padding:8px 0; border-radius:12px; color:white; text-align:right; font-weight:bold;">99</div>
   </div>
 
-  <!-- Total Commits -->
-  <div style="flex:1; min-width:200px; background: linear-gradient(135deg,#FF6B6B,#FF8787); padding:20px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#fff;">📝 Total Commits</h3>
-    <p style="color:#fff; font-size:24px; font-weight:bold;">104</p>
+  <b>Total Commits</b>
+  <div style="background:#111827; border-radius:12px; padding:4px; margin-bottom:10px;">
+    <div style="width:75%; background: linear-gradient(90deg,#FF6B6B,#FF8787); padding:8px 0; border-radius:12px; color:white; text-align:right; font-weight:bold;">104</div>
   </div>
 
-  <!-- Total PRs -->
-  <div style="flex:1; min-width:200px; background: linear-gradient(135deg,#00C9A7,#2EC4B6); padding:20px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#fff;">🔀 Total PRs</h3>
-    <p style="color:#fff; font-size:24px; font-weight:bold;">0</p>
+  <b>Total PRs</b>
+  <div style="background:#111827; border-radius:12px; padding:4px; margin-bottom:10px;">
+    <div style="width:10%; background: linear-gradient(90deg,#00C9A7,#2EC4B6); padding:8px 0; border-radius:12px; color:white; text-align:right; font-weight:bold;">0</div>
   </div>
 
-  <!-- Total Issues -->
-  <div style="flex:1; min-width:200px; background: linear-gradient(135deg,#FFD93D,#FFB703); padding:20px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#fff;">⚠️ Total Issues</h3>
-    <p style="color:#fff; font-size:24px; font-weight:bold;">1</p>
+  <b>Total Issues</b>
+  <div style="background:#111827; border-radius:12px; padding:4px; margin-bottom:10px;">
+    <div style="width:20%; background: linear-gradient(90deg,#FFD93D,#FFB703); padding:8px 0; border-radius:12px; color:white; text-align:right; font-weight:bold;">1</div>
   </div>
 
-  <!-- Current Streak -->
-  <div style="flex:1; min-width:200px; background: linear-gradient(135deg,#6A11CB,#2575FC); padding:20px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#fff;">🔥 Current Streak</h3>
-    <p style="color:#fff; font-size:24px; font-weight:bold;">1 day</p>
+  <b>Current Streak</b>
+  <div style="background:#111827; border-radius:12px; padding:4px; margin-bottom:10px;">
+    <div style="width:5%; background: linear-gradient(90deg,#6A11CB,#2575FC); padding:8px 0; border-radius:12px; color:white; text-align:right; font-weight:bold;">1 day</div>
   </div>
 
-  <!-- Longest Streak -->
-  <div style="flex:1; min-width:200px; background: linear-gradient(135deg,#FF4B2B,#FF416C); padding:20px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#fff;">🏆 Longest Streak</h3>
-    <p style="color:#fff; font-size:24px; font-weight:bold;">Oct 30 - Nov 1</p>
+  <b>Longest Streak</b>
+  <div style="background:#111827; border-radius:12px; padding:4px; margin-bottom:10px;">
+    <div style="width:20%; background: linear-gradient(90deg,#FF4B2B,#FF416C); padding:8px 0; border-radius:12px; color:white; text-align:right; font-weight:bold;">Oct 30 - Nov 1</div>
   </div>
 
 </div>
