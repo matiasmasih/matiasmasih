@@ -49,19 +49,22 @@
 ---
 ## 📊 GitHub Stats
 
-<table align="center" style="border-radius:15px; overflow:hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.3); border:2px solid #1D3557;">
-  <tr>
-    <!-- Left: GitHub Stats -->
-    <td style="background: #0d1117; padding:15px;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius:12px;" />
-    </td>
-    <!-- Right: GitHub Streak -->
-    <td style="background: #111827; padding:15px; border-left:2px solid #1D3557;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="border-radius:12px;" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="width:90%; max-width:900px; display:flex; justify-content:center; gap:20px; flex-wrap:wrap; 
+    border-radius:20px; background: linear-gradient(135deg,#1D3557,#FF6B6B); padding:3px; box-shadow:0 8px 25px rgba(0,0,0,0.35);">
 
+  <!-- Stats Left -->
+  <div style="flex:1; min-width:300px; background:#0d1117; padding:20px; border-radius:15px; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius:12px; width:100%;"/>
+    <p style="color:#00F5FF; font-weight:bold; margin-top:10px;">GitHub Overview</p>
+  </div>
+
+  <!-- Stats Right -->
+  <div style="flex:1; min-width:300px; background:#111827; padding:20px; border-radius:15px; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="border-radius:12px; width:100%;"/>
+    <p style="color:#FF6B6B; font-weight:bold; margin-top:10px;">Contribution Streak</p>
+  </div>
+
+</div>
 
 ---
 ## 🚀 Featured Projects 
