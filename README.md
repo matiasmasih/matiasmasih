@@ -92,56 +92,6 @@
 
 ---
 
- 📊 GitHub Highlights
-
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; max-width:1000px; margin:auto;">
-
-  <!-- Total Repos -->
-  <div style="flex:1; min-width:200px; background:#1E1E2F; border-radius:15px; padding:20px; text-align:center; color:#FFD700;">
-    <h2>📁 Repositories</h2>
-    <p style="font-size:28px; font-weight:bold;">99</p>
-    <p style="font-size:14px;">All your public projects</p>
-  </div>
-
-  <!-- Total Commits -->
-  <div style="flex:1; min-width:200px; background:#2E2E3F; border-radius:15px; padding:20px; text-align:center; color:#00FFAA;">
-    <h2>📝 Commits</h2>
-    <p style="font-size:28px; font-weight:bold;">104</p>
-    <p style="font-size:14px;">Total commits made</p>
-  </div>
-
-  <!-- Total PRs -->
-  <div style="flex:1; min-width:200px; background:#1E2E2F; border-radius:15px; padding:20px; text-align:center; color:#FF6B6B;">
-    <h2>🔀 Pull Requests</h2>
-    <p style="font-size:28px; font-weight:bold;">0</p>
-    <p style="font-size:14px;">Contributed PRs</p>
-  </div>
-
-  <!-- Total Issues -->
-  <div style="flex:1; min-width:200px; background:#2F1E2E; border-radius:15px; padding:20px; text-align:center; color:#FFA500;">
-    <h2>⚠️ Issues</h2>
-    <p style="font-size:28px; font-weight:bold;">1</p>
-    <p style="font-size:14px;">Issues opened/handled</p>
-  </div>
-
-  <!-- Current Streak -->
-  <div style="flex:1; min-width:200px; background:#1E2F2E; border-radius:15px; padding:20px; text-align:center; color:#00BFFF;">
-    <h2>🔥 Current Streak</h2>
-    <p style="font-size:28px; font-weight:bold;">1 day</p>
-    <p style="font-size:14px;">Continuous contributions</p>
-  </div>
-
-  <!-- Longest Streak -->
-  <div style="flex:1; min-width:200px; background:#2E1E2F; border-radius:15px; padding:20px; text-align:center; color:#FF69B4;">
-    <h2>🏆 Longest Streak</h2>
-    <p style="font-size:28px; font-weight:bold;">Oct 30 - Nov 1</p>
-    <p style="font-size:14px;">Longest contribution streak</p>
-  </div>
-
-</div>
-
-
----
 ## 🚀 Featured Projects 
 | Project | Description | Link | 
 |---------|-------------|------| 
