@@ -43,14 +43,11 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+## 📊 GitHub Academic Stats  
+<p align="center">  
+  <img src="https://github-readme-stats-academic.vercel.app/api/academic?username=matiasmasih&theme=tokyonight" alt="GitHub Academic Stats" />  
 </p>
 
----
 
 ## 🚀 Featured Projects
 | Project | Description | Link |
