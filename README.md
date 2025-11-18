@@ -66,6 +66,31 @@
 
 </div>
 
+
+---
+
+## 📊 My GitHub Overview
+
+<table align="center" style="border-radius:15px; overflow:hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.3); border:2px solid #1D3557;">
+  <tr>
+    <td style="padding:15px; background:#0d1117; text-align:center;">
+      <b>Top Language</b><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+    <td style="padding:15px; background:#111827; text-align:center;">
+      <b>Most Starred Repo</b><br>
+      <a href="https://github.com/matiasmasih/warehousepro">
+        <img src="https://img.shields.io/badge/WarehousePro-⭐5?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td style="padding:15px; background:#0d1117; text-align:center;">
+      <b>Open PRs</b><br>
+      <img src="https://img.shields.io/badge/PRs-0-brightgreen?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+
 ---
 ## 🚀 Featured Projects 
 | Project | Description | Link | 
