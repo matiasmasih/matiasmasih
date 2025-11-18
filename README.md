@@ -1,5 +1,12 @@
 # 🌟 Aziz Rahman Noyan — Software Developer
 
+<!-- Banner Image --> 
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Screenshot%202025-10-31%20140915.jpg" alt="Banner" width="100%"/>
+</p>
+
+---
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F5FF&center=true&width=650&lines=Hi!+I'm+Aziz+Rahman+Noyan;I+build+modern+web+apps;PHP+%2B+MySQL+%2B+JavaScript" alt="Typing SVG" />
@@ -83,4 +90,12 @@
   <img src="https://img.shields.io/badge/🛠%20Tools-VSCode%20|%20GitHub%20|%20PHPStorm-ff006e?style=for-the-badge"/>
 </div>
 
+---
+
+<!-- Business Card --> 
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="100%" alt="Business Card"/> 
+</p>
+
+---
 <p align="center"><i>Designed with ❤️ using modern GitHub README techniques</i></p>
