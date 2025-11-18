@@ -40,9 +40,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
