@@ -43,14 +43,17 @@
 </p>
 
 ---
-## 📊 GitHub Academic Stats  
-<p align="center">  
-  <img src="https://github-readme-stats-academic.vercel.app/api/academic?username=matiasmasih&theme=tokyonight" alt="GitHub Academic Stats" />  
-</p>
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=matiasmasishere&color=1D3557&style=for-the-badge" alt="Profile Views" />  
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 | Project | Description | Link |
