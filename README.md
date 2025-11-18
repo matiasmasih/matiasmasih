@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/0D1117/00F5FF?text=Aziz+Rahman+Noyan+Banner" width="100%" alt="Aziz Rahman Noyan Banner"/>
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/your-actual-image.jpg" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
