@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Screenshot%202025-10-31%20140915.jpg" width="100%" alt="Aziz Rahman Noyan Banner"/>
+  <img src="https://via.placeholder.com/1200x300/0D1117/00F5FF?text=Aziz+Rahman+Noyan+Banner" width="100%" alt="Aziz Rahman Noyan Banner"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ---
 
 ## 🧠 About Me
-💻 I’m a **Software Development Student** passionate about crafting **modern, elegant, and functional** web apps.  
+💻 I'm a **Software Development Student** passionate about crafting **modern, elegant, and functional** web apps.  
 ✨ My expertise: **PHP + MySQL**, **JavaScript**, **Bootstrap**, and **responsive design**.  
 🚀 Currently improving **real-time apps**, **UI/UX**, and **dashboard systems**.
 
@@ -76,10 +76,9 @@
 
 ---
 
-
 <!-- Bottom Banner / Business Card -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="100%" alt="Business Card"/>
+  <img src="https://via.placeholder.com/1200x200/1D3557/FFFFFF?text=Aziz+Rahman+Noyan+%7C+Software+Developer+%7C+Open+to+Collaborate" width="100%" alt="Business Card"/>
 </p>
 
 ---
