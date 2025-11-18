@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/GitHub-1D3557?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://x.com/matiasmasih" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tiwiter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </div>
 
@@ -43,7 +43,7 @@
 
 ## 🛠 Tech Stack
 <div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,react,nodejs,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,vscode,github" />
 </div>
 
 ---
