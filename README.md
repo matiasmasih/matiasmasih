@@ -10,6 +10,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&width=600&lines=Software+Developer;Frontend+Engineer;PHP+%7C+MySQL+%7C+JavaScript+Lover;Building+Modern+Web+Apps" alt="Typing SVG"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+
 ---
 
 ## 🌐 Connect with Me
