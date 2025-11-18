@@ -44,9 +44,8 @@
 <p align="center">
   <!-- Combined GitHub stats -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-
-<img src="https://streak-stats.demolab.com/?user=matiasmasih&theme=tokyonight&hide_border=true" width="48%"/>
-  
+<img alt="Repositories" src="https://img.shields.io/badge/Repositories-10+-00F5FF?style=for-the-badge">
+  <img alt="Commits" src="https://img.shields.io/badge/Commits-500+-ff006e?style=for-the-badge">
 </p>
 
 ---
