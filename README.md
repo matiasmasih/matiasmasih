@@ -50,15 +50,20 @@
 
 ## 📊 GitHub Stats
 
-<div align="leftr" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-bottom:20px;">
-  <!-- GitHub Stats Card -->
-  <div style="background: linear-gradient(145deg,#1D3557,#457B9D); border-radius:15px; padding:20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius:12px;"/>
-  </div>
+<div align="center" style="display:flex; justify-content:center; margin-bottom:20px;">
 
-  <!-- GitHub Streak Card -->
-  <div style="background: linear-gradient(145deg,#000000,#2C2C2C); border-radius:15px; padding:20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="border-radius:12px;"/>
+  <div style="display:flex; border:2px solid #1D3557; border-radius:20px; overflow:hidden; width:fit-content; box-shadow:0 8px 20px rgba(0,0,0,0.3);">
+
+    <!-- Left: GitHub Stats -->
+    <div style="background-color:#0d1117; padding:15px;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius:10px;"/>
+    </div>
+
+    <!-- Right: GitHub Streak -->
+    <div style="background-color:#111827; padding:15px; border-left:2px solid #1D3557;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="border-radius:10px;"/>
+    </div>
+
   </div>
 
 </div>
