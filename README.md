@@ -7,77 +7,89 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&width=600&lines=Software+Developer;Frontend+Engineer;PHP+%7C+MySQL+%7C+JavaScript+Lover;Building+Modern+Web+Apps" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F5FF&center=true&width=650&lines=Hi!+I'm+Aziz+Rahman+Noyan;I+build+modern+web+apps;PHP+%2B+MySQL+%2B+JavaScript" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/aziz-rahman-noyan-201596264" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:matiasmasih@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/matiasmasih" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1D3557?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/matiasmasih" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ## 🧠 About Me
-💻 I’m a **Software Development Student** passionate about crafting **modern, elegant, and functional web apps**.  
-✨ Expertise: **PHP + MySQL**, **JavaScript**, **Bootstrap**, **Responsive Design**  
-🚀 Currently improving **real-time apps**, **UI/UX**, and **dashboard systems**  
+- 💻 Software Development Student  
+- ✨ Passionate about **modern web apps, real-time systems, and UI/UX design**  
+- 🚀 Working on **PHP, MySQL, JavaScript, and responsive dashboards**  
 
 ---
 
-## 🧰 Languages & Tools
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,vscode,github" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,react,nodejs,vscode,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmasih&theme=vision-friendly-dark&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
-## 🚀 Featured Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| 🏥 **Hospital Management System** | Modern healthcare dashboard | [GitHub](https://github.com/matiasmasih/hospital-management) |
-| 📦 **WarehousePro** | Full warehouse inventory system | [GitHub](https://github.com/matiasmasih/warehousepro) |
-| 💬 **Real-time Chat App** | Node.js + Socket.IO chat platform | [GitHub](https://github.com/matiasmasih/chat-app) |
-
----
-
-## ⚡ Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 ---
 
-## 🏆 Profile Stats & Badges
+## 🚀 Projects I'm Proud Of
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>🏥 Hospital Management</b><br>
+        Modern healthcare dashboard<br>
+        <a href="https://github.com/matiasmasih/hospital-management">GitHub</a>
+      </td>
+      <td align="center">
+        <b>📦 WarehousePro</b><br>
+        Full inventory system<br>
+        <a href="https://github.com/matiasmasih/warehousepro">GitHub</a>
+      </td>
+      <td align="center">
+        <b>💬 Chat App</b><br>
+        Node.js + Socket.IO real-time chat<br>
+        <a href="https://github.com/matiasmasih/chat-app">GitHub</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## ⚡ Activity
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=👀%20Profile%20Views&color=1D3557&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💻%20Focus-Web%20Development-00F5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🛠%20Tools-VSCode%20%7C%20GitHub%20%7C%20PHPStorm-ff006e?style=for-the-badge"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true" width="90%" />
 </p>
 
+---
+
+## 🏆 Stats & Badges
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=Profile+Views&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻-Web%20Development-00F5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠-VSCode%20|%20PHPStorm%20|%20GitHub-ff006e?style=for-the-badge" />
+</p>
 ---
 
 <!-- Business Card -->
