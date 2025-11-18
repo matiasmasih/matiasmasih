@@ -56,13 +56,12 @@
   <div style="flex:1; min-width:300px; background:#0d1117; padding:20px; border-radius:15px; display:flex; flex-direction:column; align-items:center;">
      <p style="color:#00F5FF; font-weight:bold; margin-top:10px;">GitHub Overview</p>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius:12px; width:100%;"/>
-    <p style="color:#00F5FF; font-weight:bold; margin-top:10px;">GitHub Overview</p>
   </div>
 
   <!-- Stats Right -->
   <div style="flex:1; min-width:300px; background:#111827; padding:20px; border-radius:15px; display:flex; flex-direction:column; align-items:center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="border-radius:12px; width:100%;"/>
     <p style="color:#FF6B6B; font-weight:bold; margin-top:10px;">Contribution Streak</p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="border-radius:12px; width:100%;"/>
   </div>
 
 </div>
