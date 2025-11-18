@@ -25,7 +25,7 @@
   <a href="https://github.com/matiasmasih" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1D3557?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://x.com/home/M97258Masih" target="_blank">
+  <a href="https://x.com/M97258Masih" target="_blank">
     <img src="https://img.shields.io/badge/tiwiter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </div>
