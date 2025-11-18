@@ -12,7 +12,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/aziz-rahman-noyan-201596264" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -41,39 +41,32 @@
 
 ---
 
-## 📊 GitHub Highlights
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmasih&theme=vision-friendly-dark&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
-## 🚀 Projects I'm Proud Of
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>🏥 Hospital Management</b><br>
-        Modern healthcare dashboard<br>
-        <a href="https://github.com/matiasmasih/hospital-management">GitHub</a>
-      </td>
-      <td align="center">
-        <b>📦 WarehousePro</b><br>
-        Full inventory system<br>
-        <a href="https://github.com/matiasmasih/warehousepro">GitHub</a>
-      </td>
-      <td align="center">
-        <b>💬 Chat App</b><br>
-        Node.js + Socket.IO real-time chat<br>
-        <a href="https://github.com/matiasmasih/chat-app">GitHub</a>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🚀 Featured Projects
+<p align="center">
+  <b>🏥 Hospital Management</b> — <a href="https://github.com/matiasmasih/hospital-management">GitHub</a><br>
+  Modern healthcare dashboard
+</p>
+
+<p align="center">
+  <b>📦 WarehousePro</b> — <a href="https://github.com/matiasmasih/warehousepro">GitHub</a><br>
+  Full inventory system
+</p>
+
+<p align="center">
+  <b>💬 Chat App</b> — <a href="https://github.com/matiasmasih/chat-app">GitHub</a><br>
+  Node.js + Socket.IO real-time chat
+</p>
 
 ---
 
@@ -84,12 +77,13 @@
 
 ---
 
-## 🏆 Stats & Badges
+## 🏆 Profile Stats & Badges
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=Profile+Views&color=blue&style=for-the-badge" />
   <img src="https://img.shields.io/badge/💻-Web%20Development-00F5FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🛠-VSCode%20|%20PHPStorm%20|%20GitHub-ff006e?style=for-the-badge" />
 </p>
+
 ---
 
 <!-- Business Card -->
