@@ -92,28 +92,44 @@
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 My GitHub Dashboard
 
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; max-width:900px; margin:auto;">
+<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; max-width:1000px; margin:auto;">
 
-  <!-- Card 1: Top Language -->
-  <div style="flex:1; min-width:250px; background: linear-gradient(135deg,#1D3557,#457B9D); border-radius:15px; padding:20px; box-shadow:0 8px 20px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#fff;">Top Language</h3>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Top Language"/>
+  <!-- Total Repos -->
+  <div style="flex:1; min-width:200px; background: linear-gradient(135deg,#6C63FF,#3F37C9); padding:20px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#fff;">📂 Total Repos</h3>
+    <p style="color:#fff; font-size:24px; font-weight:bold;">99</p>
   </div>
 
-  <!-- Card 2: Most Starred Repo -->
-  <div style="flex:1; min-width:250px; background: linear-gradient(135deg,#FF6B6B,#FFD93D); border-radius:15px; padding:20px; box-shadow:0 8px 20px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#111;">Most Starred Repo</h3>
-    <a href="https://github.com/matiasmasih/warehousepro">
-      <img src="https://img.shields.io/badge/WarehousePro-⭐5?style=for-the-badge&logo=github&logoColor=white" alt="Most Starred Repo"/>
-    </a>
+  <!-- Total Commits -->
+  <div style="flex:1; min-width:200px; background: linear-gradient(135deg,#FF6B6B,#FF8787); padding:20px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#fff;">📝 Total Commits</h3>
+    <p style="color:#fff; font-size:24px; font-weight:bold;">104</p>
   </div>
 
-  <!-- Card 3: Open PRs -->
-  <div style="flex:1; min-width:250px; background: linear-gradient(135deg,#0d1117,#222831); border-radius:15px; padding:20px; box-shadow:0 8px 20px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#00F5FF;">Open PRs</h3>
-    <img src="https://img.shields.io/badge/PRs-0-brightgreen?style=for-the-badge" alt="Open PRs"/>
+  <!-- Total PRs -->
+  <div style="flex:1; min-width:200px; background: linear-gradient(135deg,#00C9A7,#2EC4B6); padding:20px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#fff;">🔀 Total PRs</h3>
+    <p style="color:#fff; font-size:24px; font-weight:bold;">0</p>
+  </div>
+
+  <!-- Total Issues -->
+  <div style="flex:1; min-width:200px; background: linear-gradient(135deg,#FFD93D,#FFB703); padding:20px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#fff;">⚠️ Total Issues</h3>
+    <p style="color:#fff; font-size:24px; font-weight:bold;">1</p>
+  </div>
+
+  <!-- Current Streak -->
+  <div style="flex:1; min-width:200px; background: linear-gradient(135deg,#6A11CB,#2575FC); padding:20px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#fff;">🔥 Current Streak</h3>
+    <p style="color:#fff; font-size:24px; font-weight:bold;">1 day</p>
+  </div>
+
+  <!-- Longest Streak -->
+  <div style="flex:1; min-width:200px; background: linear-gradient(135deg,#FF4B2B,#FF416C); padding:20px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#fff;">🏆 Longest Streak</h3>
+    <p style="color:#fff; font-size:24px; font-weight:bold;">Oct 30 - Nov 1</p>
   </div>
 
 </div>
