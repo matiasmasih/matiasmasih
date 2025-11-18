@@ -92,41 +92,54 @@
 
 ---
 
-## 📊 GitHub Stats Overview
+ 📊 GitHub Highlights
 
-<div align="center" style="max-width:700px; margin:auto;">
+<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; max-width:1000px; margin:auto;">
 
-  <b>Total Repos</b>
-  <div style="background:#111827; border-radius:12px; padding:4px; margin-bottom:10px;">
-    <div style="width:90%; background: linear-gradient(90deg,#6C63FF,#3F37C9); padding:8px 0; border-radius:12px; color:white; text-align:right; font-weight:bold;">99</div>
+  <!-- Total Repos -->
+  <div style="flex:1; min-width:200px; background:#1E1E2F; border-radius:15px; padding:20px; text-align:center; color:#FFD700;">
+    <h2>📁 Repositories</h2>
+    <p style="font-size:28px; font-weight:bold;">99</p>
+    <p style="font-size:14px;">All your public projects</p>
   </div>
 
-  <b>Total Commits</b>
-  <div style="background:#111827; border-radius:12px; padding:4px; margin-bottom:10px;">
-    <div style="width:75%; background: linear-gradient(90deg,#FF6B6B,#FF8787); padding:8px 0; border-radius:12px; color:white; text-align:right; font-weight:bold;">104</div>
+  <!-- Total Commits -->
+  <div style="flex:1; min-width:200px; background:#2E2E3F; border-radius:15px; padding:20px; text-align:center; color:#00FFAA;">
+    <h2>📝 Commits</h2>
+    <p style="font-size:28px; font-weight:bold;">104</p>
+    <p style="font-size:14px;">Total commits made</p>
   </div>
 
-  <b>Total PRs</b>
-  <div style="background:#111827; border-radius:12px; padding:4px; margin-bottom:10px;">
-    <div style="width:10%; background: linear-gradient(90deg,#00C9A7,#2EC4B6); padding:8px 0; border-radius:12px; color:white; text-align:right; font-weight:bold;">0</div>
+  <!-- Total PRs -->
+  <div style="flex:1; min-width:200px; background:#1E2E2F; border-radius:15px; padding:20px; text-align:center; color:#FF6B6B;">
+    <h2>🔀 Pull Requests</h2>
+    <p style="font-size:28px; font-weight:bold;">0</p>
+    <p style="font-size:14px;">Contributed PRs</p>
   </div>
 
-  <b>Total Issues</b>
-  <div style="background:#111827; border-radius:12px; padding:4px; margin-bottom:10px;">
-    <div style="width:20%; background: linear-gradient(90deg,#FFD93D,#FFB703); padding:8px 0; border-radius:12px; color:white; text-align:right; font-weight:bold;">1</div>
+  <!-- Total Issues -->
+  <div style="flex:1; min-width:200px; background:#2F1E2E; border-radius:15px; padding:20px; text-align:center; color:#FFA500;">
+    <h2>⚠️ Issues</h2>
+    <p style="font-size:28px; font-weight:bold;">1</p>
+    <p style="font-size:14px;">Issues opened/handled</p>
   </div>
 
-  <b>Current Streak</b>
-  <div style="background:#111827; border-radius:12px; padding:4px; margin-bottom:10px;">
-    <div style="width:5%; background: linear-gradient(90deg,#6A11CB,#2575FC); padding:8px 0; border-radius:12px; color:white; text-align:right; font-weight:bold;">1 day</div>
+  <!-- Current Streak -->
+  <div style="flex:1; min-width:200px; background:#1E2F2E; border-radius:15px; padding:20px; text-align:center; color:#00BFFF;">
+    <h2>🔥 Current Streak</h2>
+    <p style="font-size:28px; font-weight:bold;">1 day</p>
+    <p style="font-size:14px;">Continuous contributions</p>
   </div>
 
-  <b>Longest Streak</b>
-  <div style="background:#111827; border-radius:12px; padding:4px; margin-bottom:10px;">
-    <div style="width:20%; background: linear-gradient(90deg,#FF4B2B,#FF416C); padding:8px 0; border-radius:12px; color:white; text-align:right; font-weight:bold;">Oct 30 - Nov 1</div>
+  <!-- Longest Streak -->
+  <div style="flex:1; min-width:200px; background:#2E1E2F; border-radius:15px; padding:20px; text-align:center; color:#FF69B4;">
+    <h2>🏆 Longest Streak</h2>
+    <p style="font-size:28px; font-weight:bold;">Oct 30 - Nov 1</p>
+    <p style="font-size:14px;">Longest contribution streak</p>
   </div>
 
 </div>
+
 
 ---
 ## 🚀 Featured Projects 
