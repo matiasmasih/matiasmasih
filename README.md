@@ -13,7 +13,7 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
+<div align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap:nowrap;">
   <a href="https://linkedin.com/in/aziz-rahman-noyan-201596264" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -26,8 +26,7 @@
   <a href="https://x.com/matiasmasih" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-</p>
----
+</div>
 
 ## 🧠 About Me
 - 💻 Software Development Student  
