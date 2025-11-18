@@ -49,17 +49,24 @@
 ---
 ## 📊 GitHub Stats
 
-<table align="center" style="border:2px solid #1D3557; border-radius:15px; background-color:#0d1117; box-shadow:0 8px 20px rgba(0,0,0,0.3);">
-  <tr>
-    <td style="padding:15px;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius:10px;" />
-    </td>
-    <td style="padding:15px; border-left:2px solid #1D3557;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="border-radius:10px;" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap; margin-bottom:20px;">
 
+  <!-- Repos -->
+  <div style="background: linear-gradient(135deg,#1D3557,#457B9D); padding:15px 25px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3);">
+    <img src="https://img.shields.io/github/repos/matiasmasih?style=for-the-badge&color=00f5ff&label=Repos" alt="Total Repos"/>
+  </div>
+
+  <!-- Commits -->
+  <div style="background: linear-gradient(135deg,#2C2C54,#474787); padding:15px 25px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3);">
+    <img src="https://img.shields.io/github/commit-activity/m/matiasmasih?style=for-the-badge&color=ff006e&label=Commits" alt="Total Commits"/>
+  </div>
+
+  <!-- Streak -->
+  <div style="background: linear-gradient(135deg,#1E1E1E,#2E2E2E); padding:15px 25px; border-radius:15px; box-shadow:0 6px 15px rgba(0,0,0,0.3);">
+    <img src="https://img.shields.io/badge/Streak-🔥-ffcc00?style=for-the-badge" alt="Streak"/>
+  </div>
+
+</div>
 ---
 ## 🚀 Featured Projects 
 | Project | Description | Link | 
