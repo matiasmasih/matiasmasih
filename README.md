@@ -33,10 +33,24 @@
 ---
 
 ## 🧠 About Me
-<div style="border:2px solid #1D3557; border-radius:15px; padding:15px; background-color:#0d1117; margin-bottom:20px;">
-- 💻 Software Development Student  
-- ✨ Passionate about **modern web apps, real-time systems, and UI/UX design**  
-- 🚀 Working on **PHP, MySQL, JavaScript, and responsive dashboards**  
+
+<div style="
+  display: flex; 
+  flex-direction: column; 
+  align-items: flex-start; 
+  gap: 12px; 
+  background: linear-gradient(135deg,#1D3557,#457B9D); 
+  padding: 20px; 
+  border-radius: 20px; 
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3); 
+  color: #ffffff;
+  max-width: 700px;
+  margin: 0 auto 20px auto;
+  font-family: 'Fira Code', monospace;
+">
+  <p>💻 <b>Software Development Student</b></p>
+  <p>✨ Passionate about <b>modern web apps, real-time systems, and UI/UX design</b></p>
+  <p>🚀 Working on <b>PHP, MySQL, JavaScript, and responsive dashboards</b></p>
 </div>
 
 ---
