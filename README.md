@@ -1,9 +1,11 @@
+# 🌟 Aziz Rahman Noyan — Software Developer
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Screenshot%202025-10-31%20140915.jpg" width="100%" alt="Aziz Rahman Noyan Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Developer;Frontend+Engineer;PHP+%7C+MySQL+%7C+JavaScript+Lover;Building+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Developer;Frontend+Engineer;PHP+%7C+MySQL+%7C+JavaScript+Lover;Building+Modern+Web+Apps" />
 </p>
 
 ---
@@ -27,9 +29,9 @@
 ---
 
 ## 🧠 About Me
-💻 I’m a **Software Development Student** passionate about crafting **modern, elegant, and functional** web apps.  
-✨ My expertise: **PHP + MySQL**, **JavaScript**, **Bootstrap**, and **responsive design**.  
-🚀 Currently improving **real-time apps**, **UI/UX**, and **dashboard systems**.
+💻 I’m a **Software Development Student** passionate about crafting **modern, elegant, and functional web apps**.  
+✨ Expertise: **PHP + MySQL**, **JavaScript**, **Bootstrap**, **Responsive Design**  
+🚀 Currently improving **real-time apps**, **UI/UX**, and **dashboard systems**
 
 ---
 
@@ -39,12 +41,13 @@
 </p>
 
 ---
-## 📊 GitHub Activity
-<p align="center"> 
-  <!-- Combined GitHub stats --> 
-<img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/> 
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/> 
   <img src="https://streak-stats.demolab.com/?user=matiasmasih&theme=tokyonight&hide_border=true" width="48%"/> 
 </p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -72,14 +75,8 @@
 
 ---
 
-
-<!-- Bottom Banner / Business Card -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="100%" alt="Business Card"/>
 </p>
 
----
-
-<p align="center">
-  <i>Designed with ❤️ using modern GitHub README techniques</i>
-</p>
+<p align="center"><i>Designed with ❤️ using modern GitHub README techniques</i></p>
