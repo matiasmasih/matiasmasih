@@ -42,12 +42,11 @@
 
 ## 📊 GitHub Stats 
 <p align="center">
-  <!-- Combined GitHub stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img alt="Repositories" src="https://img.shields.io/badge/Repositories-10+-00F5FF?style=for-the-badge">
-  <img alt="Commits" src="https://img.shields.io/badge/Commits-500+-ff006e?style=for-the-badge">
+  <a href="https://github.com/matiasmasih">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmasih&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
