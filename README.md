@@ -35,22 +35,24 @@
 ## 🧠 About Me
 
 <div style="
-  display: flex; 
-  flex-direction: column; 
-  align-items: flex-start; 
-  gap: 12px; 
-  background: linear-gradient(135deg,#1D3557,#457B9D); 
-  padding: 20px; 
-  border-radius: 20px; 
-  box-shadow: 0 8px 20px rgba(0,0,0,0.3); 
+  max-width: 700px; 
+  margin: 0 auto 30px auto; 
+  padding: 25px; 
+  border-radius: 25px; 
+  background: rgba(29, 53, 87, 0.6); 
+  backdrop-filter: blur(10px); 
+  border: 2px solid transparent; 
+  background-clip: padding-box;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
   color: #ffffff;
-  max-width: 700px;
-  margin: 0 auto 20px auto;
   font-family: 'Fira Code', monospace;
+  transition: all 0.3s ease;
 ">
-  <p>💻 <b>Software Development Student</b></p>
-  <p>✨ Passionate about <b>modern web apps, real-time systems, and UI/UX design</b></p>
-  <p>🚀 Working on <b>PHP, MySQL, JavaScript, and responsive dashboards</b></p>
+  <h3 style="text-align:center; margin-bottom:15px;">💡 Who I Am</h3>
+  
+  <p>💻 <b>Software Development Student</b> — Building elegant and functional web applications.</p>
+  <p>✨ <b>Passionate</b> about modern web apps, real-time systems, and UI/UX design.</p>
+  <p>🚀 <b>Tech Stack:</b> PHP, MySQL, JavaScript, and responsive dashboards.</p>
 </div>
 
 ---
