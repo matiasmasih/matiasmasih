@@ -78,10 +78,10 @@
 ---
 
 ## 🏆 Profile Stats & Badges
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=Profile+Views&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻-Web%20Development-00F5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🛠-VSCode%20|%20PHPStorm%20|%20GitHub-ff006e?style=for-the-badge" />
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=👀%20Profile%20Views&color=1D3557&style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/💻%20Focus-Web%20Development-00F5FF?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/🛠%20Tools-VSCode%20%7C%20GitHub%20%7C%20PHPStorm-ff006e?style=for-the-badge"/> 
 </p>
 
 ---
