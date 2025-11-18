@@ -47,26 +47,18 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
-<div align="center" style="display:flex; justify-content:center; margin-bottom:20px;">
-
-  <div style="display:flex; border:2px solid #1D3557; border-radius:20px; overflow:hidden; width:fit-content; box-shadow:0 8px 20px rgba(0,0,0,0.3);">
-
-    <!-- Left: GitHub Stats -->
-    <div style="background-color:#0d1117; padding:15px;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius:10px;"/>
-    </div>
-
-    <!-- Right: GitHub Streak -->
-    <div style="background-color:#111827; padding:15px; border-left:2px solid #1D3557;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="border-radius:10px;"/>
-    </div>
-
-  </div>
-
-</div>
+<table align="center" style="border:2px solid #1D3557; border-radius:15px; background-color:#0d1117; box-shadow:0 8px 20px rgba(0,0,0,0.3);">
+  <tr>
+    <td style="padding:15px;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius:10px;" />
+    </td>
+    <td style="padding:15px; border-left:2px solid #1D3557;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="border-radius:10px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🚀 Featured Projects 
