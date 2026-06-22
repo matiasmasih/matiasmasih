@@ -156,36 +156,187 @@ Comprehensive hospital management system with patient records, appointments, and
 
 **Tech Stack:** PHP · MySQL · Bootstrap · JavaScript
 
-**🔗 [View Project](https://github.com/matiasmasih/hospital_management)**
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management)**
 
 ---
 
 ### 📦 WarehousePro
-Complete warehouse and inventory management system.
+Complete warehouse and inventory management system with stock tracking and reporting.
 
 **Tech Stack:** PHP · MySQL · JavaScript · Bootstrap
 
-**🔗 [View Project](https://github.com/matiasmasih/Warehouse)**
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse)**
 
 ---
 
 ### 📚 Library Project
-Library management system for tracking books, members, and borrowings.
+Library management system for tracking books, members, and borrowings with fine calculation.
 
 **Tech Stack:** PHP · MySQL · HTML · CSS
 
-**🔗 [View Project](https://github.com/matiasmasih/library_project)**
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/library_project)**
 
 ---
 
 ### 💰 SmartBanking
-Banking management system with account and transaction features.
+Banking management system with account creation, deposits, withdrawals, and transaction history.
 
 **Tech Stack:** PHP · MySQL · JavaScript · Bootstrap
 
-**🔗 [View Project](https://github.com/matiasmasih/SmartBanking)**
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking)**
 
 ---
+
+### 📂 KIRJASTO
+Main collection of small coding projects and utilities.
+
+**Tech Stack:** PHP · MySQL · HTML · CSS
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/KIRJASTO)**
+
+---
+
+### 📂 Kirjasto2
+Additional projects collection with various PHP exercises.
+
+**Tech Stack:** PHP · MySQL
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Kirjasto2)**
+
+---
+
+### 🕐 Analog Clock
+Simple analog clock widget built with HTML, CSS, and JavaScript.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock)**
+
+---
+
+### 📅 Calendar
+Interactive event calendar with date selection and navigation.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Calendar)**
+
+---
+
+### 📋 Attendance App
+Web-based attendance tracking system for students or employees.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Attendance%20App)**
+
+---
+
+### 🏦 Banking HTML
+Simulated banking interface with account management features.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Banking%20HTML)**
+
+---
+
+### 🍽️ Restaurant
+Restaurant management demo with menu and ordering system.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Restaurant)**
+
+---
+
+### 🕐 Clock and Calendar
+Combined clock and calendar widget for time and date display.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Clock%20and%20calendar)**
+
+---
+
+### 🕐 Calendar and Clock
+Another combined clock and calendar project.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/calendar%20and%20clock)**
+
+---
+
+### 🕐 Clock
+Standalone clock display with analog or digital format.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Clock)**
+
+---
+
+### 🕐 Digital Clock
+Digital clock display with real-time updating.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/digital%20clock)**
+
+---
+
+### 📆 Mini Calendar
+Small calendar widget with month navigation.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Mini%20Calendar)**
+
+---
+
+### 📂 JQuery
+Various JQuery practice projects and exercises.
+
+**Tech Stack:** JQuery · JavaScript · HTML
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/JQuery)**
+
+---
+
+### 📂 Javascript
+JavaScript practice projects and mini-applications.
+
+**Tech Stack:** JavaScript · HTML · CSS
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Javascript)**
+
+---
+
+### 📂 Data
+Data-related projects and exercises.
+
+**Tech Stack:** Various
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Data)**
+
+---
+
+### 🐍 Python Practice
+Python practice exercises and scripts for learning.
+
+**Tech Stack:** Python
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/python_practice)**
+
+---
+
+### 📄 Attendans HTML
+HTML-based attendance tracking project.
+
+**Tech Stack:** HTML
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Attendans%20HTML)**
 
 ## ⚡ Activity
 <div style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
