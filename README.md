@@ -50,6 +50,32 @@
 
 ---
 
+## 💼 Current Status
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀%20Currently%20Working%20On-Multiple%20Projects-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📚%20Learning-React%20%26%20Node.js-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💡%20Looking%20For-Collaboration-FFD93D?style=for-the-badge"/>
+</p>
+
+---
+
+## 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matiasmasih&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="90%" />
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 <div align="center" style="border:2px solid #1D3557; border-radius:20px; padding:25px; background: linear-gradient(135deg, #0d1117, #1a1a2e); margin-bottom:20px; box-shadow: 0 10px 40px rgba(0,0,0,0.3);">
@@ -64,6 +90,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF6B6B&text_color=ffffff" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true&background=0d1117&stroke=00F5FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00F5FF" width="48%" />
 </div>
+
+---
+
+## 📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmasih&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" width="40%" />
+</p>
 
 ---
 
@@ -87,6 +121,22 @@
     </td>
   </tr>
 </table>
+
+---
+
+## ⚡ Activity
+
+<div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5FF&line=FF6B6B&point=ffffff&area=true" width="90%" />
+</div>
+
+---
+
+## 😄 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" />
+</p>
 
 ---
 
@@ -323,11 +373,11 @@ HTML-based attendance tracking project.
 
 ---
 
-## ⚡ Activity
+## 👀 Visitor Count
 
-<div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5FF&line=FF6B6B&point=ffffff&area=true" width="90%" />
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/matiasmasih/count.svg" />
+</p>
 
 ---
 
@@ -339,6 +389,17 @@ HTML-based attendance tracking project.
   <img src="https://img.shields.io/badge/🛠%20Tools-VSCode%20|%20GitHub%20|%20PHPStorm-ff006e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📁%20Total%20Projects-20+-4A7C59?style=for-the-badge"/>
 </div>
+
+---
+
+## 📈 Dev Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻%20Lines%20of%20Code-50K+-4A7C59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📦%20Repositories-20+-1D3557?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌟%20Stars-10+-FFD93D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🍴%20Forks-5+-FF6B6B?style=for-the-badge"/>
+</p>
 
 ---
 
