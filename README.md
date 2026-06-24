@@ -102,6 +102,29 @@
 
 ---
 
+## 🎯 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #00F5FF;">
+        <b>🚀 Building</b><br>
+        Web Applications
+      </td>
+      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #FF6B6B;">
+        <b>📚 Learning</b><br>
+        React & Node.js
+      </td>
+      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #FFD93D;">
+        <b>💡 Exploring</b><br>
+        UI/UX Design
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📊 Top Languages
 
 <p align="center">
@@ -137,29 +160,6 @@
 
 <div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5FF&line=FF6B6B&point=ffffff&area=true" width="90%" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #00F5FF;">
-        <b>🚀 Building</b><br>
-        Web Applications
-      </td>
-      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #FF6B6B;">
-        <b>📚 Learning</b><br>
-        React & Node.js
-      </td>
-      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #FFD93D;">
-        <b>💡 Exploring</b><br>
-        UI/UX Design
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
