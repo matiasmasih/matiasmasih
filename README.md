@@ -1,13 +1,13 @@
 # 💻 Aziz Rahman Noyan
 
-<!-- Static Banner (Replacing broken animated one) -->
+<!-- Banner Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Screenshot%202025-10-31%20140915.jpg" alt="Banner" width="100%"/>
 </p>
 
 ---
 
-<!-- Fixed Typing Animation -->
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Aziz+Rahman+Noyan;Full-Stack+Developer;PHP+%2B+MySQL+%2B+JavaScript;Building+Modern+Web+Apps" alt="Typing SVG" />
 </p>
@@ -58,30 +58,6 @@
   <img src="https://img.shields.io/badge/📚%20Learning-React%20%26%20Node.js-FF6B6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/💡%20Looking%20For-Collaboration-FFD93D?style=for-the-badge"/>
 </p>
-
----
-
-## 💭 Dev Quote (FIXED - Static Version)
-
-<p align="center">
-  <i>"The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie</i>
-</p>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
-
----
-
-## 🏆 GitHub Achievements (FIXED - Static Version)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🏆%20Total%20Stars-10+-FFD93D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📦%20Repositories-20+-00F5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/👥%20Followers-5+-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔀%20Forks-5+-4A7C59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💻%20Commits-500+-6BCB77?style=for-the-badge"/>
-</div>
 
 ---
 
@@ -138,18 +114,6 @@
 <div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5FF&line=FF6B6B&point=ffffff&area=true" width="90%" />
 </div>
-
----
-
-## 😄 Random Dev Joke (FIXED - Static Version)
-
-<p align="center">
-  <i>"Why do programmers prefer dark mode? Because light attracts bugs!"</i>
-</p>
-
-<p align="center">
-  <i>"How many programmers does it take to change a light bulb? None – that's a hardware problem."</i>
-</p>
 
 ---
 
