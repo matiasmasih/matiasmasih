@@ -7,9 +7,8 @@
 
 ---
 
-<!-- Glowing Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=800&color=00F5FF&center=true&width=750&lines=Hi!+I'm+Aziz+Rahman+Noyan;🚀+Full-Stack+Developer;💡+Building+Modern+Web+Apps;⚡+PHP+%2B+MySQL+%2B+JavaScript;✨+UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Aziz+Rahman+Noyan;Full-Stack+Developer;PHP+%2B+MySQL+%2B+JavaScript;Building+Modern+Web+Apps" alt="Typing SVG" />
 </p>
 
 ---
