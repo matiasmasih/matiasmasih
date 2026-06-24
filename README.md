@@ -61,11 +61,14 @@
 
 ---
 
-## 💭 Random Dev Quote
+## 💭 Random Dev Quote (Funny Version)
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+<div align="center"> 
+<p><i>⌨️ "I have a theory that any programmer who tries to explain recursion will eventually be asked to explain recursion."</i></p> <p><i>🐞 "Debugging is like being the detective in a crime movie where you are also the murderer."</i></p> 
+<p><i>☕ "Software and cathedrals are much the same — first we build them, then we pray."</i></p> 
+<p><i>🚀 "The hardest part of programming is naming things, cache invalidation, and off-by-one errors."</i></p>
+<p><i>💻 "My code works. I don't know why. My code doesn't work. I don't know why."</i></p> 
+</div>
 
 ---
 
