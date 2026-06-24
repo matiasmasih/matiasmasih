@@ -69,11 +69,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (FIXED - Static Version)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matiasmasih&theme=darkhub&no-frame=true&margin-w=15" width="100%" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆%20Total%20Stars-10+-FFD93D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📦%20Repositories-20+-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/👥%20Followers-5+-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔀%20Forks-5+-4A7C59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻%20Commits-500+-6BCB77?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📁%20Projects-20+-1D3557?style=for-the-badge"/>
+</div>
 
 ---
 
@@ -133,26 +138,56 @@
 
 ---
 
-## 😄 Random Dev Joke
+## 😄 Random Dev Joke (FIXED - Static Version)
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true" />
-</p>
+<div align="center">
+  <p><i>💻 "Why do programmers prefer dark mode? Because light attracts bugs!"</i></p>
+  <p><i>🐛 "How many programmers does it take to change a light bulb? None – that's a hardware problem!"</i></p>
+  <p><i>☕ "Programmers are just tools that convert caffeine into code."</i></p>
+  <p><i>🔧 "The best error message is the one that never shows up."</i></p>
+</div>
 
 ---
 
-## 🚀 Project Showcase
+## 🚀 Project Showcase (FIXED - Static Version)
 
 <div align="center">
-  <a href="https://github.com/matiasmasih/warehousepro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matiasmasih&repo=warehousepro&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/matiasmasih/library_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matiasmasih&repo=library_project&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/matiasmasih/SmartBanking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matiasmasih&repo=SmartBanking&theme=tokyonight&hide_border=true" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
+        <b>🏥 Hospital Management</b><br>
+        PHP · MySQL · Bootstrap<br>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management">🔗 View</a>
+      </td>
+      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
+        <b>📦 WarehousePro</b><br>
+        PHP · MySQL · JavaScript<br>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse">🔗 View</a>
+      </td>
+      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
+        <b>📚 Library Project</b><br>
+        PHP · MySQL · HTML<br>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/library_project">🔗 View</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
+        <b>💰 SmartBanking</b><br>
+        PHP · MySQL · Bootstrap<br>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking">🔗 View</a>
+      </td>
+      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
+        <b>🕐 Analog Clock</b><br>
+        HTML · CSS · JavaScript<br>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock">🔗 View</a>
+      </td>
+      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
+        <b>📅 Calendar</b><br>
+        HTML · CSS · JavaScript<br>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Calendar">🔗 View</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
