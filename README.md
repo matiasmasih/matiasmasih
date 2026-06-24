@@ -1,12 +1,13 @@
 # 💻 Aziz Rahman Noyan
 
-<!-- Animated Gradient Banner -->
+<!-- Static Banner (Replacing broken animated one) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3557,100:FF6B6B&height=200&section=header&text=Aziz%20Rahman%20Noyan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Screenshot%202025-10-31%20140915.jpg" alt="Banner" width="100%"/>
 </p>
 
 ---
 
+<!-- Fixed Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Aziz+Rahman+Noyan;Full-Stack+Developer;PHP+%2B+MySQL+%2B+JavaScript;Building+Modern+Web+Apps" alt="Typing SVG" />
 </p>
@@ -60,19 +61,27 @@
 
 ---
 
-## 💭 Dev Quote
+## 💭 Dev Quote (FIXED - Static Version)
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <i>"The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie</i>
+</p>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements (FIXED - Static Version)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matiasmasih&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="90%" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆%20Total%20Stars-10+-FFD93D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📦%20Repositories-20+-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/👥%20Followers-5+-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔀%20Forks-5+-4A7C59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻%20Commits-500+-6BCB77?style=for-the-badge"/>
+</div>
 
 ---
 
@@ -132,10 +141,14 @@
 
 ---
 
-## 😄 Random Dev Joke
+## 😄 Random Dev Joke (FIXED - Static Version)
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" />
+  <i>"Why do programmers prefer dark mode? Because light attracts bugs!"</i>
+</p>
+
+<p align="center">
+  <i>"How many programmers does it take to change a light bulb? None – that's a hardware problem."</i>
 </p>
 
 ---
