@@ -390,10 +390,10 @@ HTML-based attendance tracking project.
 
 ---
 
-## 👀 Visitor Count 
+## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/matiasmasih/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=matiasmasih&color=blue&style=flat-square" />
 </p>
 
 ---
