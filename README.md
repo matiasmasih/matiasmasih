@@ -61,6 +61,22 @@
 
 ---
 
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matiasmasih&theme=darkhub&no-frame=true&margin-w=15" width="100%" />
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 <div align="center" style="border:2px solid #1D3557; border-radius:20px; padding:25px; background: linear-gradient(135deg, #0d1117, #1a1a2e); margin-bottom:20px; box-shadow: 0 10px 40px rgba(0,0,0,0.3);">
@@ -113,6 +129,30 @@
 
 <div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5FF&line=FF6B6B&point=ffffff&area=true" width="90%" />
+</div>
+
+---
+
+## 😄 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true" />
+</p>
+
+---
+
+## 🚀 Project Showcase
+
+<div align="center">
+  <a href="https://github.com/matiasmasih/warehousepro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matiasmasih&repo=warehousepro&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/matiasmasih/library_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matiasmasih&repo=library_project&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/matiasmasih/SmartBanking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matiasmasih&repo=SmartBanking&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ---
@@ -353,7 +393,7 @@ HTML-based attendance tracking project.
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/matiasmasih/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=matiasmasih&color=blue&style=flat-square" />
 </p>
 
 ---
@@ -376,6 +416,19 @@ HTML-based attendance tracking project.
   <img src="https://img.shields.io/badge/📦%20Repositories-20+-1D3557?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🌟%20Stars-10+-FFD93D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🍴%20Forks-5+-FF6B6B?style=for-the-badge"/>
+</p>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/matiasmasih">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+  <a href="https://www.paypal.com/paypalme/matiasmasih">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
 </p>
 
 ---
