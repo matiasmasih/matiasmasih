@@ -61,13 +61,13 @@
 
 ---
 
-## 💭 Random Dev Quote (Funny Version)
+## 😄 Random Dev Joke
 
-<div align="center"> 
-<p><i>⌨️ "I have a theory that any programmer who tries to explain recursion will eventually be asked to explain recursion."</i></p> <p><i>🐞 "Debugging is like being the detective in a crime movie where you are also the murderer."</i></p> 
-<p><i>☕ "Software and cathedrals are much the same — first we build them, then we pray."</i></p> 
-<p><i>🚀 "The hardest part of programming is naming things, cache invalidation, and off-by-one errors."</i></p>
-<p><i>💻 "My code works. I don't know why. My code doesn't work. I don't know why."</i></p> 
+<div align="center">
+  <p><i>💻 "Why do programmers prefer dark mode? Because light attracts bugs!"</i></p>
+  <p><i>🐛 "How many programmers does it take to change a light bulb? None – that's a hardware problem!"</i></p>
+  <p><i>☕ "Programmers are just tools that convert caffeine into code."</i></p>
+  <p><i>🔧 "The best error message is the one that never shows up."</i></p>
 </div>
 
 ---
@@ -141,13 +141,25 @@
 
 ---
 
-## 😄 Random Dev Joke (FIXED - Static Version)
+## 🎯 Current Focus
 
 <div align="center">
-  <p><i>💻 "Why do programmers prefer dark mode? Because light attracts bugs!"</i></p>
-  <p><i>🐛 "How many programmers does it take to change a light bulb? None – that's a hardware problem!"</i></p>
-  <p><i>☕ "Programmers are just tools that convert caffeine into code."</i></p>
-  <p><i>🔧 "The best error message is the one that never shows up."</i></p>
+  <table>
+    <tr>
+      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #00F5FF;">
+        <b>🚀 Building</b><br>
+        Web Applications
+      </td>
+      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #FF6B6B;">
+        <b>📚 Learning</b><br>
+        React & Node.js
+      </td>
+      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #FFD93D;">
+        <b>💡 Exploring</b><br>
+        UI/UX Design
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
