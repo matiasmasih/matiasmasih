@@ -1,32 +1,36 @@
 # 💻 Aziz Rahman Noyan
 
-<!-- Banner Image -->
+<!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Screenshot%202025-10-31%20140915.jpg" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3557,100:FF6B6B&height=200&section=header&text=Aziz%20Rahman%20Noyan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 ---
 
-<!-- Typing Animation -->
+<!-- Glowing Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F5FF&center=true&width=650&lines=Hi!+I'm+Aziz+Rahman+Noyan;I+build+modern+web+apps;PHP+%2B+MySQL+%2B+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=800&color=00F5FF&center=true&width=750&lines=Hi!+I'm+Aziz+Rahman+Noyan;🚀+Full-Stack+Developer;💡+Building+Modern+Web+Apps;⚡+PHP+%2B+MySQL+%2B+JavaScript;✨+UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
-<div align="center" style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+
+<div align="center">
   <a href="https://linkedin.com/in/aziz-rahman-noyan-201596264" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
   <a href="mailto:matiasmasih@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
   </a>
   <a href="https://github.com/matiasmasih" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1D3557?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
   <a href="https://x.com/M97258Masih" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://www.youtube.com/@aziznoyan" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000"/>
   </a>
 </div>
 
@@ -34,52 +38,32 @@
 
 ## 🧠 About Me
 
-<div style="
-  max-width: 700px;
-  margin: 0 auto 30px auto;
-  padding: 25px;
-  border-radius: 25px;
-  background: rgba(29, 53, 87, 0.6);
-  backdrop-filter: blur(10px);
-  border: 2px solid transparent;
-  background-clip: padding-box;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
-  color: #ffffff;
-  font-family: 'Fira Code', monospace;
-  transition: all 0.3s ease;
-">
-  <h3 style="text-align:center; margin-bottom:15px;">💡 Who I Am</h3>
-
-  <p>💻 <b>Software Development Student</b> — Building elegant and functional web applications.</p>
-  <p>✨ <b>Passionate</b> about modern web apps, real-time systems, and UI/UX design.</p>
-  <p>🚀 <b>Tech Stack:</b> PHP, MySQL, JavaScript, and responsive dashboards.</p>
+<div align="center">
+  <div style="max-width: 700px; margin: 0 auto 30px; padding: 30px; border-radius: 25px; background: linear-gradient(135deg, rgba(29, 53, 87, 0.8), rgba(255, 107, 107, 0.2)); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 20px 50px rgba(0,0,0,0.3); color: #ffffff; font-family: 'Fira Code', monospace;">
+    <h3 style="text-align:center; margin-bottom:20px; font-size:1.8rem; background: linear-gradient(135deg, #00F5FF, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">💡 Who I Am</h3>
+    <p>💻 <b>Software Development Student</b> — Building elegant and functional web applications.</p>
+    <p>✨ <b>Passionate</b> about modern web apps, real-time systems, and UI/UX design.</p>
+    <p>🚀 <b>Tech Stack:</b> PHP, MySQL, JavaScript, and responsive dashboards.</p>
+    <p>🌍 <b>Location:</b> Finland</p>
+    <p>🎯 <b>Focus:</b> Turning ideas into reality through code</p>
+  </div>
 </div>
 
 ---
 
 ## 🛠 Tech Stack
-<div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,vscode,github,python,react,nodejs" />
+
+<div align="center" style="border:2px solid #1D3557; border-radius:20px; padding:25px; background: linear-gradient(135deg, #0d1117, #1a1a2e); margin-bottom:20px; box-shadow: 0 10px 40px rgba(0,0,0,0.3);">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,vscode,github,python,react,nodejs,git,linux,jquery" />
 </div>
 
 ---
+
 ## 📊 GitHub Stats
 
-<div align="center" style="width:90%; max-width:900px; display:flex; justify-content:center; gap:20px; flex-wrap:wrap;
-    border-radius:20px; background: linear-gradient(135deg,#1D3557,#FF6B6B); padding:3px; box-shadow:0 8px 25px rgba(0,0,0,0.35);">
-
-  <!-- Stats Left -->
-  <div style="flex:1; min-width:300px; background:#0d1117; padding:20px; border-radius:15px; display:flex; flex-direction:column; align-items:center;">
-     <p style="color:#00F5FF; font-weight:bold; margin-top:10px;">GitHub Overview</p>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius:12px; width:100%;"/>
-  </div>
-
-  <!-- Stats Right -->
-  <div style="flex:1; min-width:300px; background:#111827; padding:20px; border-radius:15px; display:flex; flex-direction:column; align-items:center;">
-    <p style="color:#FF6B6B; font-weight:bold; margin-top:10px;">Contribution Streak</p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="border-radius:12px; width:100%;"/>
-  </div>
-
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF6B6B&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true&background=0d1117&stroke=00F5FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00F5FF" width="48%" />
 </div>
 
 ---
@@ -88,19 +72,19 @@
 
 <table align="center" style="border-radius:15px; overflow:hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.3); border:2px solid #1D3557;">
   <tr>
-    <td style="padding:15px; background:#0d1117; text-align:center;">
-      <b>Top Language</b><br>
+    <td align="center" style="padding:20px; background:#0d1117;">
+      <b>⭐ Top Language</b><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </td>
-    <td style="padding:15px; background:#111827; text-align:center;">
-      <b>Most Starred Repo</b><br>
+    <td align="center" style="padding:20px; background:#111827;">
+      <b>🏆 Most Starred Repo</b><br>
       <a href="https://github.com/matiasmasih/warehousepro">
-        <img src="https://img.shields.io/badge/WarehousePro-⭐5?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/WarehousePro-⭐5-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td style="padding:15px; background:#0d1117; text-align:center;">
-      <b>Total Repositories</b><br>
-      <img src="https://img.shields.io/badge/📁%20Projects-20+-brightgreen?style=for-the-badge" />
+    <td align="center" style="padding:20px; background:#0d1117;">
+      <b>📁 Total Projects</b><br>
+      <img src="https://img.shields.io/badge/📁%20Projects-20+-00F5FF?style=for-the-badge" />
     </td>
   </tr>
 </table>
@@ -338,17 +322,19 @@ HTML-based attendance tracking project.
 
 **🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Attendans%20HTML)**
 
+---
+
 ## ⚡ Activity
-<div style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true" width="90%" />
-</p>
+
+<div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5FF&line=FF6B6B&point=ffffff&area=true" width="90%" />
 </div>
 
 ---
 
 ## 🏆 Profile Stats & Badges
-<div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117;">
+
+<div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background: linear-gradient(135deg, #0d1117, #1a1a2e);">
   <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=👀%20Profile%20Views&color=1D3557&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/💻%20Focus-Web%20Development-00F5FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🛠%20Tools-VSCode%20|%20GitHub%20|%20PHPStorm-ff006e?style=for-the-badge"/>
@@ -357,10 +343,12 @@ HTML-based attendance tracking project.
 
 ---
 
-<!-- Business Card -->
+## 📱 Business Card
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="100%" alt="Business Card"/>
 </p>
 
 ---
+
 <p align="center"><i>Designed with ❤️ using modern GitHub README techniques</i></p>
