@@ -184,7 +184,7 @@
       <td align="center" style="padding:15px; background:#0d1117; color:#ffffff;">🏥 Hospital Management</td>
       <td align="center" style="padding:15px; background:#0d1117; color:#a0a0a0;">PHP · MySQL · Bootstrap</td>
       <td align="center" style="padding:15px; background:#0d1117;">
-        <a href="https://github.com/matiasmasih/My-Projects/tree/main/hospital_management">
+        <a href="[https://github.com/matiasmasih/My-Projects/tree/main/hospital_management](https://github.com/matiasmasih/My-Projects/tree/main/databases/hospital_management/hospital_management)">
           <img src="https://img.shields.io/badge/View%20Project-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </td>
