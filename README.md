@@ -505,10 +505,11 @@ HTML-based attendance tracking project.
 ## ☕ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/matiasmasih">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  <a href="https://www.mobilepay.fi/">
+  <img src="https://img.shields.io/badge/Support%20Me%20with%20MobilePay-0055A4?style=for-thebadge&logo=mobilepay&logoColor=white"/>
+ </a>
   </a>
-  <a href="https://www.paypal.com/paypalme/matiasmasih">
+  <a href="https://www.paypal.com/paypalme/@aziznoyan1">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
 </p>
