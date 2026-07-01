@@ -193,7 +193,7 @@
       <td align="center" style="padding:15px; background:#0d1117; color:#ffffff;">📦 WarehousePro</td>
       <td align="center" style="padding:15px; background:#0d1117; color:#a0a0a0;">PHP · MySQL · JavaScript</td>
       <td align="center" style="padding:15px; background:#0d1117;">
-        <a href="https://github.com/matiasmasih/My-Projects/tree/main/Warehouse">
+        <a href="https://github.com/matiasmasih/My-Projects/tree/main/databases/WarehouseProDB/Warehouse">
           <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </td>
