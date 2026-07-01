@@ -96,8 +96,8 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF6B6B&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true&background=0d1117&stroke=00F5FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00F5FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" width="48%" />
 </div>
 
 ---
