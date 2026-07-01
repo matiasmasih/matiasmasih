@@ -170,45 +170,71 @@
 
 ## 🚀 Project Showcase (FIXED - Static Version)
 
-<div align="center">
-  <table>
+<table align="center">
+  <thead>
     <tr>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
-        <b>🏥 Hospital Management</b><br>
-        PHP · MySQL · Bootstrap<br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management">🔗 View</a>
-      </td>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
-        <b>📦 WarehousePro</b><br>
-        PHP · MySQL · JavaScript<br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse">🔗 View</a>
-      </td>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
-        <b>📚 Library Project</b><br>
-        PHP · MySQL · HTML<br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/library_project">🔗 View</a>
+      <th align="center" style="padding:15px; background:#1D3557; color:#ffffff; border-radius:8px;">📁 Project</th>
+      <th align="center" style="padding:15px; background:#1D3557; color:#ffffff; border-radius:8px;">🛠️ Tech Stack</th>
+      <th align="center" style="padding:15px; background:#1D3557; color:#ffffff; border-radius:8px;">🔗 Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="padding:15px; background:#0d1117; color:#ffffff;">🏥 Hospital Management</td>
+      <td align="center" style="padding:15px; background:#0d1117; color:#a0a0a0;">PHP · MySQL · Bootstrap</td>
+      <td align="center" style="padding:15px; background:#0d1117;">
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management">
+          <img src="https://img.shields.io/badge/View%20Project-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
       </td>
     </tr>
     <tr>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
-        <b>💰 SmartBanking</b><br>
-        PHP · MySQL · Bootstrap<br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking">🔗 View</a>
-      </td>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
-        <b>🕐 Analog Clock</b><br>
-        HTML · CSS · JavaScript<br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock">🔗 View</a>
-      </td>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
-        <b>📅 Calendar</b><br>
-        HTML · CSS · JavaScript<br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Calendar">🔗 View</a>
+      <td align="center" style="padding:15px; background:#0d1117; color:#ffffff;">📦 WarehousePro</td>
+      <td align="center" style="padding:15px; background:#0d1117; color:#a0a0a0;">PHP · MySQL · JavaScript</td>
+      <td align="center" style="padding:15px; background:#0d1117;">
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse">
+          <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
       </td>
     </tr>
-  </table>
-</div>
-
+    <tr>
+      <td align="center" style="padding:15px; background:#0d1117; color:#ffffff;">📚 Library Project</td>
+      <td align="center" style="padding:15px; background:#0d1117; color:#a0a0a0;">PHP · MySQL · HTML</td>
+      <td align="center" style="padding:15px; background:#0d1117;">
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/library_project">
+          <img src="https://img.shields.io/badge/View%20Project-FFD93D?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:15px; background:#0d1117; color:#ffffff;">💰 SmartBanking</td>
+      <td align="center" style="padding:15px; background:#0d1117; color:#a0a0a0;">PHP · MySQL · Bootstrap</td>
+      <td align="center" style="padding:15px; background:#0d1117;">
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking">
+          <img src="https://img.shields.io/badge/View%20Project-6BCB77?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:15px; background:#0d1117; color:#ffffff;">🕐 Analog Clock</td>
+      <td align="center" style="padding:15px; background:#0d1117; color:#a0a0a0;">HTML · CSS · JavaScript</td>
+      <td align="center" style="padding:15px; background:#0d1117;">
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock">
+          <img src="https://img.shields.io/badge/View%20Project-9B59B6?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:15px; background:#0d1117; color:#ffffff;">📅 Calendar</td>
+      <td align="center" style="padding:15px; background:#0d1117; color:#a0a0a0;">HTML · CSS · JavaScript</td>
+      <td align="center" style="padding:15px; background:#0d1117;">
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Calendar">
+          <img src="https://img.shields.io/badge/View%20Project-E74C3C?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 🚀 All Projects
