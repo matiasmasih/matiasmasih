@@ -202,7 +202,7 @@
       <td align="center" style="padding:15px; background:#0d1117; color:#ffffff;">📚 Library Project</td>
       <td align="center" style="padding:15px; background:#0d1117; color:#a0a0a0;">PHP · MySQL · HTML</td>
       <td align="center" style="padding:15px; background:#0d1117;">
-        <a href="https://github.com/matiasmasih/My-Projects/tree/main/library_project">
+        <a href="https://github.com/matiasmasih/My-Projects/tree/main/databases/LibraryProDB/library_project">
           <img src="https://img.shields.io/badge/View%20Project-FFD93D?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </td>
