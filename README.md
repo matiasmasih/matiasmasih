@@ -507,7 +507,6 @@ HTML-based attendance tracking project.
 <p align="center">
   <a href="https://www.mobilepay.fi/">
   <img src="https://img.shields.io/badge/Support%20Me%20with%20MobilePay-0055A4?style=for-thebadge&logo=mobilepay&logoColor=white"/>
- </a>
   </a>
   <a href="https://www.paypal.com/donate/matiasmasih@gmail.com&currency_code=EUR">
     <img src="https://img.shields.io/badge/Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
