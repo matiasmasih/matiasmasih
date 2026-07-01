@@ -1,19 +1,22 @@
 # 💻 Aziz Rahman Noyan
 
-<!-- Banner Image -->
+<!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Screenshot%202025-10-31%20140915.jpg" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aziz%20Rahman%20Noyan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 ---
 
-<!-- Typing Animation -->
+<!-- Glowing Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Aziz+Rahman+Noyan;Full-Stack+Developer;PHP+%2B+MySQL+%2B+JavaScript;Building+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Aziz+Rahman+Noyan;Full-Stack+Developer;Building+Modern+Web+Apps;PHP+%2B+MySQL+%2B+JavaScript;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
+<!-- ======================================== -->
+<!-- SOCIAL LINKS - Glassmorphism Style -->
+<!-- ======================================== -->
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -36,45 +39,101 @@
 
 ---
 
+<!-- ======================================== -->
+<!-- ABOUT ME - Neon Glow Card -->
+<!-- ======================================== -->
 ## 🧠 About Me
 
 <div align="center">
-  <div style="max-width: 700px; margin: 0 auto 30px; padding: 30px; border-radius: 25px; background: linear-gradient(135deg, rgba(29, 53, 87, 0.8), rgba(255, 107, 107, 0.2)); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 20px 50px rgba(0,0,0,0.3); color: #ffffff; font-family: 'Fira Code', monospace;">
-    <h3 style="text-align:center; margin-bottom:20px; font-size:1.8rem; background: linear-gradient(135deg, #00F5FF, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">💡 Who I Am</h3>
-    <p>💻 <b>Software Development Student</b> — Building elegant and functional web applications.</p>
-    <p>✨ <b>Passionate</b> about modern web apps, real-time systems, and UI/UX design.</p>
-    <p>🚀 <b>Tech Stack:</b> PHP, MySQL, JavaScript, and responsive dashboards.</p>
-    <p>🌍 <b>Location:</b> Finland</p>
-    <p>🎯 <b>Focus:</b> Turning ideas into reality through code</p>
+  <div style="
+    max-width: 750px;
+    margin: 0 auto 30px;
+    padding: 35px;
+    border-radius: 25px;
+    background: rgba(13, 17, 23, 0.85);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(0, 245, 255, 0.15);
+    box-shadow: 0 0 40px rgba(0, 245, 255, 0.05), 0 20px 50px rgba(0,0,0,0.5);
+    color: #e0e0e0;
+    font-family: 'Fira Code', monospace;
+    position: relative;
+    overflow: hidden;
+  ">
+    <div style="
+      position: absolute;
+      top: -50%;
+      right: -50%;
+      width: 100%;
+      height: 100%;
+      background: radial-gradient(circle, rgba(0, 245, 255, 0.03), transparent 70%);
+      pointer-events: none;
+    "></div>
+    <h3 style="
+      text-align:center;
+      margin-bottom:20px;
+      font-size:2rem;
+      font-weight:700;
+      background: linear-gradient(135deg, #00F5FF, #FF6B6B);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    ">💡 Who I Am</h3>
+    <p style="margin: 10px 0;">💻 <b style="color: #00F5FF;">Software Development Student</b> — Building elegant and functional web applications.</p>
+    <p style="margin: 10px 0;">✨ <b style="color: #FF6B6B;">Passionate</b> about modern web apps, real-time systems, and UI/UX design.</p>
+    <p style="margin: 10px 0;">🚀 <b style="color: #FFD93D;">Tech Stack:</b> PHP, MySQL, JavaScript, and responsive dashboards.</p>
+    <p style="margin: 10px 0;">🌍 <b style="color: #6BCB77;">Location:</b> Finland</p>
+    <p style="margin: 10px 0;">🎯 <b style="color: #FF6B6B;">Focus:</b> Turning ideas into reality through code</p>
   </div>
 </div>
 
 ---
 
+<!-- ======================================== -->
+<!-- CURRENT STATUS - Animated Badges -->
+<!-- ======================================== -->
 ## 💼 Current Status
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Currently%20Working%20On-Multiple%20Projects-00F5FF?style=for-the-badge"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀%20Building-Web%20Applications-00F5FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📚%20Learning-React%20%26%20Node.js-FF6B6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/💡%20Looking%20For-Collaboration-FFD93D?style=for-the-badge"/>
-</p>
-
----
-
-## 😄 Random Dev Joke
-
-<div align="center">
-  <p><i>💻 "Why do programmers prefer dark mode? Because light attracts bugs!"</i></p>
-  <p><i>🐛 "How many programmers does it take to change a light bulb? None – that's a hardware problem!"</i></p>
-  <p><i>☕ "Programmers are just tools that convert caffeine into code."</i></p>
-  <p><i>🔧 "The best error message is the one that never shows up."</i></p>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies (FIXED - Static Version)
+<!-- ======================================== -->
+<!-- RANDOM DEV JOKE - Stylish Card -->
+<!-- ======================================== -->
+## 😄 Random Dev Joke
 
-<div align="center">
+<div align="center" style="
+  padding: 20px;
+  border-radius: 20px;
+  background: rgba(13, 17, 23, 0.7);
+  border: 1px solid rgba(255, 107, 107, 0.1);
+  margin: 10px auto;
+  max-width: 700px;
+">
+  <p><i style="color: #a0a0a0;">💻 "Why do programmers prefer dark mode? Because light attracts bugs!"</i></p>
+  <p><i style="color: #a0a0a0;">🐛 "How many programmers does it take to change a light bulb? None – that's a hardware problem!"</i></p>
+  <p><i style="color: #a0a0a0;">☕ "Programmers are just tools that convert caffeine into code."</i></p>
+  <p><i style="color: #a0a0a0;">🔧 "The best error message is the one that never shows up."</i></p>
+</div>
+
+---
+
+<!-- ======================================== -->
+<!-- GITHUB TROPHIES - Modern Badges -->
+<!-- ======================================== -->
+## 🏆 GitHub Achievements
+
+<div align="center" style="
+  padding: 20px;
+  border-radius: 20px;
+  background: rgba(13, 17, 23, 0.7);
+  border: 1px solid rgba(0, 245, 255, 0.1);
+  margin: 10px auto;
+  max-width: 800px;
+">
   <img src="https://img.shields.io/badge/🏆%20Total%20Stars-10+-FFD93D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📦%20Repositories-20+-00F5FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/👥%20Followers-5+-FF6B6B?style=for-the-badge"/>
@@ -85,14 +144,27 @@
 
 ---
 
+<!-- ======================================== -->
+<!-- TECH STACK - Glowing Border -->
+<!-- ======================================== -->
 ## 🛠 Tech Stack
 
-<div align="center" style="border:2px solid #1D3557; border-radius:20px; padding:25px; background: linear-gradient(135deg, #0d1117, #1a1a2e); margin-bottom:20px; box-shadow: 0 10px 40px rgba(0,0,0,0.3);">
+<div align="center" style="
+  border: 2px solid rgba(0, 245, 255, 0.15);
+  border-radius: 20px;
+  padding: 25px;
+  background: linear-gradient(135deg, rgba(13, 17, 23, 0.9), rgba(26, 26, 46, 0.9));
+  box-shadow: 0 0 40px rgba(0, 245, 255, 0.05);
+  margin-bottom: 20px;
+">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,vscode,github,python,react,nodejs,git,linux,jquery" />
 </div>
 
 ---
 
+<!-- ======================================== -->
+<!-- GITHUB STATS - Two Column Layout -->
+<!-- ======================================== -->
 ## 📊 GitHub Stats
 
 <div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
@@ -102,29 +174,31 @@
 
 ---
 
+<!-- ======================================== -->
+<!-- CURRENT FOCUS - Glass Cards -->
+<!-- ======================================== -->
 ## 🎯 Current Focus
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #00F5FF;">
-        <b>🚀 Building</b><br>
-        Web Applications
-      </td>
-      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #FF6B6B;">
-        <b>📚 Learning</b><br>
-        React & Node.js
-      </td>
-      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #FFD93D;">
-        <b>💡 Exploring</b><br>
-        UI/UX Design
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+  <div style="padding:20px 30px; background:rgba(13,17,23,0.8); border-radius:15px; border:2px solid #00F5FF; min-width:180px;">
+    <b style="color:#00F5FF;">🚀 Building</b><br>
+    <span style="color:#e0e0e0;">Web Applications</span>
+  </div>
+  <div style="padding:20px 30px; background:rgba(13,17,23,0.8); border-radius:15px; border:2px solid #FF6B6B; min-width:180px;">
+    <b style="color:#FF6B6B;">📚 Learning</b><br>
+    <span style="color:#e0e0e0;">React & Node.js</span>
+  </div>
+  <div style="padding:20px 30px; background:rgba(13,17,23,0.8); border-radius:15px; border:2px solid #FFD93D; min-width:180px;">
+    <b style="color:#FFD93D;">💡 Exploring</b><br>
+    <span style="color:#e0e0e0;">UI/UX Design</span>
+  </div>
 </div>
 
 ---
 
+<!-- ======================================== -->
+<!-- TOP LANGUAGES -->
+<!-- ======================================== -->
 ## 📊 Top Languages
 
 <p align="center">
@@ -133,73 +207,27 @@
 
 ---
 
+<!-- ======================================== -->
+<!-- GITHUB OVERVIEW - Modern Table -->
+<!-- ======================================== -->
 ## 📊 My GitHub Overview
 
-<table align="center" style="border-radius:15px; overflow:hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.3); border:2px solid #1D3557;">
-  <tr>
-    <td align="center" style="padding:20px; background:#0d1117;">
-      <b>⭐ Top Language</b><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </td>
-    <td align="center" style="padding:20px; background:#111827;">
-      <b>🏆 Most Starred Repo</b><br>
-      <a href="https://github.com/matiasmasih/warehousepro">
-        <img src="https://img.shields.io/badge/WarehousePro-⭐5-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" style="padding:20px; background:#0d1117;">
-      <b>📁 Total Projects</b><br>
-      <img src="https://img.shields.io/badge/📁%20Projects-20+-00F5FF?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚡ Activity
-
-<div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5FF&line=FF6B6B&point=ffffff&area=true" width="90%" />
-</div>
-
----
-
-## 🚀 Project Showcase (FIXED - Static Version)
-
 <div align="center">
-  <table>
+  <table style="border-radius:15px; overflow:hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.4); border:2px solid rgba(0,245,255,0.15);">
     <tr>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
-        <b>🏥 Hospital Management</b><br>
-        PHP · MySQL · Bootstrap<br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management">🔗 View</a>
+      <td align="center" style="padding:20px; background:rgba(13,17,23,0.9);">
+        <b style="color:#FFD93D;">⭐ Top Language</b><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       </td>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
-        <b>📦 WarehousePro</b><br>
-        PHP · MySQL · JavaScript<br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse">🔗 View</a>
+      <td align="center" style="padding:20px; background:rgba(20,20,40,0.9);">
+        <b style="color:#FF6B6B;">🏆 Most Starred Repo</b><br>
+        <a href="https://github.com/matiasmasih/warehousepro">
+          <img src="https://img.shields.io/badge/WarehousePro-⭐5-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </td>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
-        <b>📚 Library Project</b><br>
-        PHP · MySQL · HTML<br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/library_project">🔗 View</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
-        <b>💰 SmartBanking</b><br>
-        PHP · MySQL · Bootstrap<br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking">🔗 View</a>
-      </td>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
-        <b>🕐 Analog Clock</b><br>
-        HTML · CSS · JavaScript<br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock">🔗 View</a>
-      </td>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
-        <b>📅 Calendar</b><br>
-        HTML · CSS · JavaScript<br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Calendar">🔗 View</a>
+      <td align="center" style="padding:20px; background:rgba(13,17,23,0.9);">
+        <b style="color:#00F5FF;">📁 Total Projects</b><br>
+        <img src="https://img.shields.io/badge/📁%20Projects-20+-00F5FF?style=for-the-badge" />
       </td>
     </tr>
   </table>
@@ -207,9 +235,54 @@
 
 ---
 
+<!-- ======================================== -->
+<!-- ACTIVITY GRAPH -->
+<!-- ======================================== -->
+## ⚡ Activity
+
+<div align="center" style="border:2px solid rgba(0,245,255,0.1); border-radius:15px; padding:20px; background:rgba(13,17,23,0.8); margin-bottom:20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5FF&line=FF6B6B&point=ffffff&area=true" width="90%" />
+</div>
+
+---
+
+<!-- ======================================== -->
+<!-- PROJECT SHOWCASE - Modern Cards -->
+<!-- ======================================== -->
+## 🚀 Featured Projects
+
+<div align="center" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:15px; max-width:900px; margin:0 auto;">
+  <div style="padding:20px; background:rgba(13,17,23,0.8); border-radius:15px; border:2px solid rgba(0,245,255,0.1);">
+    <b style="color:#00F5FF;">🏥 Hospital Management</b><br>
+    <span style="color:#a0a0a0;">PHP · MySQL · Bootstrap</span><br>
+    <a href="https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management">🔗 View Project</a>
+  </div>
+  <div style="padding:20px; background:rgba(13,17,23,0.8); border-radius:15px; border:2px solid rgba(255,107,107,0.1);">
+    <b style="color:#FF6B6B;">📦 WarehousePro</b><br>
+    <span style="color:#a0a0a0;">PHP · MySQL · JavaScript</span><br>
+    <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse">🔗 View Project</a>
+  </div>
+  <div style="padding:20px; background:rgba(13,17,23,0.8); border-radius:15px; border:2px solid rgba(255,217,61,0.1);">
+    <b style="color:#FFD93D;">📚 Library Project</b><br>
+    <span style="color:#a0a0a0;">PHP · MySQL · HTML</span><br>
+    <a href="https://github.com/matiasmasih/matiasmasih/tree/main/library_project">🔗 View Project</a>
+  </div>
+  <div style="padding:20px; background:rgba(13,17,23,0.8); border-radius:15px; border:2px solid rgba(107,203,119,0.1);">
+    <b style="color:#6BCB77;">💰 SmartBanking</b><br>
+    <span style="color:#a0a0a0;">PHP · MySQL · Bootstrap</span><br>
+    <a href="https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking">🔗 View Project</a>
+  </div>
+</div>
+
+---
+
+<!-- ======================================== -->
+<!-- ALL PROJECTS LIST -->
+<!-- ======================================== -->
 ## 🚀 All Projects
 
-### 🖥️ Frontend Projects
+<details>
+<summary><b>🖥️ Frontend Projects</b></summary>
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -226,9 +299,10 @@
 | **Mini Calendar** | Small calendar widget | HTML, CSS, JS |
 | **Restaurant** | Restaurant management demo | HTML, CSS, JS |
 
----
+</details>
 
-### 🗄️ Backend Projects
+<details>
+<summary><b>🗄️ Backend Projects</b></summary>
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -239,16 +313,22 @@
 | **Hospital Management** | Hospital management system | PHP, MySQL, Bootstrap |
 | **Library Project** | Library management system | PHP, MySQL |
 
----
+</details>
 
-### 🐍 Python Projects
+<details>
+<summary><b>🐍 Python Projects</b></summary>
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | **Python Practice** | Python practice exercises and scripts | Python |
 
+</details>
+
 ---
 
+<!-- ======================================== -->
+<!-- DETAILED PROJECTS SECTION -->
+<!-- ======================================== -->
 ## 🚀 Featured Projects
 
 ### 🏥 Hospital Management System
@@ -440,6 +520,9 @@ HTML-based attendance tracking project.
 
 ---
 
+<!-- ======================================== -->
+<!-- VISITOR COUNT & BADGES -->
+<!-- ======================================== -->
 ## 👀 Visitor Count
 
 <p align="center">
@@ -450,7 +533,7 @@ HTML-based attendance tracking project.
 
 ## 🏆 Profile Stats & Badges
 
-<div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background: linear-gradient(135deg, #0d1117, #1a1a2e);">
+<div align="center" style="border:2px solid rgba(0,245,255,0.1); border-radius:15px; padding:20px; background:linear-gradient(135deg, rgba(13,17,23,0.9), rgba(26,26,46,0.9));">
   <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=👀%20Profile%20Views&color=1D3557&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/💻%20Focus-Web%20Development-00F5FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🛠%20Tools-VSCode%20|%20GitHub%20|%20PHPStorm-ff006e?style=for-the-badge"/>
@@ -470,6 +553,9 @@ HTML-based attendance tracking project.
 
 ---
 
+<!-- ======================================== -->
+<!-- SUPPORT -->
+<!-- ======================================== -->
 ## ☕ Support Me
 
 <p align="center">
@@ -483,6 +569,9 @@ HTML-based attendance tracking project.
 
 ---
 
+<!-- ======================================== -->
+<!-- BUSINESS CARD -->
+<!-- ======================================== -->
 ## 📱 Business Card
 
 <p align="center">
