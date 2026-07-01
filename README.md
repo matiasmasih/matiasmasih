@@ -180,7 +180,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="padding:15px; background:#0d1117; color:#ffffff;">🏥 Hospital Management</td>
+      <td align="center" style="padding:15px; background:#0d1117; color:#black;">🏥 Hospital Management</td>
       <td align="center" style="padding:15px; background:#0d1117; color:#a0a0a0;">PHP · MySQL · Bootstrap</td>
       <td align="center" style="padding:15px; background:#0d1117;">
         <a href="https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management">
