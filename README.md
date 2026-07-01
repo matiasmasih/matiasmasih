@@ -92,6 +92,18 @@
 </div>
 
 ---
+----
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📁%20Total%20Projects-20+-1D3557?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⭐%20Total%20Stars-10+-FFD93D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📦%20Repositories-20+-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/👥%20Followers-5+-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻%20Commits-500+-6BCB77?style=for-the-badge"/>
+</p>
+
+----
 
 ## 📊 GitHub Stats
 
