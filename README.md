@@ -1,140 +1,218 @@
-<div align="center">
+# 💻 Aziz Rahman Noyan
 
-<!-- Capsule Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2b3e,100:0d1117&height=220&section=header&text=Aziz%20Rahman%20Noyan&fontSize=46&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PHP%20%C2%B7%20MySQL%20%C2%B7%20JavaScript&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Screenshot%202025-10-31%20140915.jpg" alt="Banner" width="100%"/>
+</p>
+
+---
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Development+Student;Building+Modern+Web+Applications;PHP+%2B+MySQL+%2B+JavaScript;Currently+Learning+React+%26+Node.js" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Aziz+Rahman+Noyan;Full-Stack+Developer;PHP+%2B+MySQL+%2B+JavaScript;Building+Modern+Web+Apps" alt="Typing SVG" />
+</p>
 
-<br>
+---
 
-<!-- Socials -->
-<a href="https://linkedin.com/in/aziz-rahman-noyan-201596264" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>
-<a href="mailto:matiasmasih@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=0d1117"/></a>
-<a href="https://github.com/matiasmasih" target="_blank"><img src="https://img.shields.io/badge/GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=0d1117"/></a>
-<a href="https://x.com/M97258Masih" target="_blank"><img src="https://img.shields.io/badge/X-00F5FF?style=for-the-badge&logo=x&logoColor=0d1117"/></a>
-<a href="https://www.youtube.com/@aziznoyan" target="_blank"><img src="https://img.shields.io/badge/YouTube-00F5FF?style=for-the-badge&logo=youtube&logoColor=0d1117"/></a>
+## 🌐 Connect with Me
 
+<div align="center">
+  <a href="https://linkedin.com/in/aziz-rahman-noyan-201596264" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
+  <a href="mailto:matiasmasih@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  </a>
+  <a href="https://github.com/matiasmasih" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  </a>
+  <a href="https://x.com/M97258Masih" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://www.youtube.com/@aziznoyan" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000"/>
+  </a>
 </div>
 
-<br>
+---
 
 ## 🧠 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Screenshot%202025-10-31%20140915.jpg" width="280" style="border-radius:12px; margin-left:20px;"/>
-
-- 💻 **Software Development Student** building elegant, functional web applications
-- ✨ Passionate about modern web apps, real-time systems, and UI/UX design
-- 🚀 **Tech Stack:** PHP · MySQL · JavaScript · responsive dashboards
-- 🌍 **Based in:** Finland
-- 🎯 **Focus:** Turning ideas into working code
-- 📚 **Currently learning:** React & Node.js
-- 💡 **Open to:** Collaboration on interesting projects
-
-<br clear="both">
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,react,nodejs,python,git,github,vscode,linux,jquery&theme=dark" />
-
+  <div style="max-width: 700px; margin: 0 auto 30px; padding: 30px; border-radius: 25px; background: linear-gradient(135deg, rgba(29, 53, 87, 0.8), rgba(255, 107, 107, 0.2)); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 20px 50px rgba(0,0,0,0.3); color: #ffffff; font-family: 'Fira Code', monospace;">
+    <h3 style="text-align:center; margin-bottom:20px; font-size:1.8rem; background: linear-gradient(135deg, #00F5FF, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">💡 Who I Am</h3>
+    <p>💻 <b>Software Development Student</b> — Building elegant and functional web applications.</p>
+    <p>✨ <b>Passionate</b> about modern web apps, real-time systems, and UI/UX design.</p>
+    <p>🚀 <b>Tech Stack:</b> PHP, MySQL, JavaScript, and responsive dashboards.</p>
+    <p>🌍 <b>Location:</b> Finland</p>
+    <p>🎯 <b>Focus:</b> Turning ideas into reality through code</p>
+  </div>
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Current Status
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀%20Currently%20Working%20On-Multiple%20Projects-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📚%20Learning-React%20%26%20Node.js-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💡%20Looking%20For-Collaboration-FFD93D?style=for-the-badge"/>
+</p>
+
+---
+
+## 😄 Random Dev Joke
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&rank_icon=github" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmasih&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" width="30%" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="48%" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&area=true" width="80%" />
-
+  <p><i>💻 "Why do programmers prefer dark mode? Because light attracts bugs!"</i></p>
+  <p><i>🐛 "How many programmers does it take to change a light bulb? None – that's a hardware problem!"</i></p>
+  <p><i>☕ "Programmers are just tools that convert caffeine into code."</i></p>
+  <p><i>🔧 "The best error message is the one that never shows up."</i></p>
 </div>
 
 ---
 
-## 🏆 Snapshot
+## 🏆 GitHub Trophies (FIXED - Static Version)
 
 <div align="center">
-
-| ⭐ Stars | 📦 Repos | 👥 Followers | 🔀 Forks | 💻 Commits |
-|:---:|:---:|:---:|:---:|:---:|
-| 10+ | 20+ | 5+ | 5+ | 500+ |
-
+  <img src="https://img.shields.io/badge/🏆%20Total%20Stars-10+-FFD93D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📦%20Repositories-20+-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/👥%20Followers-5+-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔀%20Forks-5+-4A7C59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻%20Commits-500+-6BCB77?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📁%20Projects-20+-1D3557?style=for-the-badge"/>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Tech Stack
+
+<div align="center" style="border:2px solid #1D3557; border-radius:20px; padding:25px; background: linear-gradient(135deg, #0d1117, #1a1a2e); margin-bottom:20px; box-shadow: 0 10px 40px rgba(0,0,0,0.3);">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,vscode,github,python,react,nodejs,git,linux,jquery" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF6B6B&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true&background=0d1117&stroke=00F5FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00F5FF" width="48%" />
+</div>
+
+---
+
+## 🎯 Current Focus
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #00F5FF;">
+        <b>🚀 Building</b><br>
+        Web Applications
+      </td>
+      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #FF6B6B;">
+        <b>📚 Learning</b><br>
+        React & Node.js
+      </td>
+      <td align="center" style="padding:15px; background:#0d1117; border-radius:10px; border:2px solid #FFD93D;">
+        <b>💡 Exploring</b><br>
+        UI/UX Design
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table>
-<tr>
-<td width="33%" align="center">
-<h3>🏥 Hospital Management</h3>
-Patient records, appointments & billing<br><br>
-<code>PHP</code> <code>MySQL</code> <code>Bootstrap</code><br><br>
-<a href="https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management">🔗 View Project</a>
-</td>
-<td width="33%" align="center">
-<h3>📦 WarehousePro</h3>
-Inventory management with stock tracking<br><br>
-<code>PHP</code> <code>MySQL</code> <code>JavaScript</code><br><br>
-<a href="https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse">🔗 View Project</a>
-</td>
-<td width="33%" align="center">
-<h3>📚 Library System</h3>
-Books, members & fine calculation<br><br>
-<code>PHP</code> <code>MySQL</code> <code>HTML</code><br><br>
-<a href="https://github.com/matiasmasih/matiasmasih/tree/main/library_project">🔗 View Project</a>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-<h3>💰 SmartBanking</h3>
-Accounts, deposits & transaction history<br><br>
-<code>PHP</code> <code>MySQL</code> <code>Bootstrap</code><br><br>
-<a href="https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking">🔗 View Project</a>
-</td>
-<td width="33%" align="center">
-<h3>🕐 Analog Clock</h3>
-Simple animated analog clock widget<br><br>
-<code>HTML</code> <code>CSS</code> <code>JS</code><br><br>
-<a href="https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock">🔗 View Project</a>
-</td>
-<td width="33%" align="center">
-<h3>📅 Calendar</h3>
-Interactive event calendar & navigation<br><br>
-<code>HTML</code> <code>CSS</code> <code>JS</code><br><br>
-<a href="https://github.com/matiasmasih/matiasmasih/tree/main/Calendar">🔗 View Project</a>
-</td>
-</tr>
+---
+
+## 📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmasih&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" width="40%" />
+</p>
+
+---
+
+## 📊 My GitHub Overview
+
+<table align="center" style="border-radius:15px; overflow:hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.3); border:2px solid #1D3557;">
+  <tr>
+    <td align="center" style="padding:20px; background:#0d1117;">
+      <b>⭐ Top Language</b><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+    <td align="center" style="padding:20px; background:#111827;">
+      <b>🏆 Most Starred Repo</b><br>
+      <a href="https://github.com/matiasmasih/warehousepro">
+        <img src="https://img.shields.io/badge/WarehousePro-⭐5-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" style="padding:20px; background:#0d1117;">
+      <b>📁 Total Projects</b><br>
+      <img src="https://img.shields.io/badge/📁%20Projects-20+-00F5FF?style=for-the-badge" />
+    </td>
+  </tr>
 </table>
 
+---
+
+## ⚡ Activity
+
+<div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background-color:#0d1117; margin-bottom:20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasmasih&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5FF&line=FF6B6B&point=ffffff&area=true" width="90%" />
 </div>
 
 ---
 
-## 📂 All Projects
+## 🚀 Project Showcase (FIXED - Static Version)
 
-<details>
-<summary><b>🖥️ Frontend Projects</b></summary>
-<br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
+        <b>🏥 Hospital Management</b><br>
+        PHP · MySQL · Bootstrap<br>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management">🔗 View</a>
+      </td>
+      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
+        <b>📦 WarehousePro</b><br>
+        PHP · MySQL · JavaScript<br>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse">🔗 View</a>
+      </td>
+      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
+        <b>📚 Library Project</b><br>
+        PHP · MySQL · HTML<br>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/library_project">🔗 View</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
+        <b>💰 SmartBanking</b><br>
+        PHP · MySQL · Bootstrap<br>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking">🔗 View</a>
+      </td>
+      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
+        <b>🕐 Analog Clock</b><br>
+        HTML · CSS · JavaScript<br>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock">🔗 View</a>
+      </td>
+      <td align="center" style="padding:20px; background:#0d1117; border-radius:10px; border:2px solid #1D3557;">
+        <b>📅 Calendar</b><br>
+        HTML · CSS · JavaScript<br>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Calendar">🔗 View</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🚀 All Projects
+
+### 🖥️ Frontend Projects
 
 | Project | Description | Technologies |
-|---|---|---|
+|---------|-------------|--------------|
 | **Analog Clock** | Simple analog clock widget | HTML, CSS, JS |
 | **Attendance App** | Web-based attendance tracking | HTML, CSS, JS |
 | **Attendance HTML** | HTML attendance tracking | HTML |
@@ -148,14 +226,12 @@ Interactive event calendar & navigation<br><br>
 | **Mini Calendar** | Small calendar widget | HTML, CSS, JS |
 | **Restaurant** | Restaurant management demo | HTML, CSS, JS |
 
-</details>
+---
 
-<details>
-<summary><b>🗄️ Backend Projects</b></summary>
-<br>
+### 🗄️ Backend Projects
 
 | Project | Description | Technologies |
-|---|---|---|
+|---------|-------------|--------------|
 | **KIRJASTO** | Main collection of small coding projects | PHP, MySQL |
 | **Kirjasto2** | Additional projects collection | PHP, MySQL |
 | **SmartBanking** | Banking management system | PHP, MySQL, JS |
@@ -163,83 +239,257 @@ Interactive event calendar & navigation<br><br>
 | **Hospital Management** | Hospital management system | PHP, MySQL, Bootstrap |
 | **Library Project** | Library management system | PHP, MySQL |
 
-</details>
+---
 
-<details>
-<summary><b>🐍 Python Projects</b></summary>
-<br>
+### 🐍 Python Projects
 
 | Project | Description | Technologies |
-|---|---|---|
+|---------|-------------|--------------|
 | **Python Practice** | Python practice exercises and scripts | Python |
-
-</details>
-
-<details>
-<summary><b>📄 Project Links (Full List)</b></summary>
-<br>
-
-- 🏥 [Hospital Management](https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management) — PHP · MySQL · Bootstrap · JavaScript
-- 📦 [WarehousePro](https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse) — PHP · MySQL · JavaScript · Bootstrap
-- 📚 [Library Project](https://github.com/matiasmasih/matiasmasih/tree/main/library_project) — PHP · MySQL · HTML · CSS
-- 💰 [SmartBanking](https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking) — PHP · MySQL · JavaScript · Bootstrap
-- 📂 [KIRJASTO](https://github.com/matiasmasih/matiasmasih/tree/main/KIRJASTO) — PHP · MySQL · HTML · CSS
-- 📂 [Kirjasto2](https://github.com/matiasmasih/matiasmasih/tree/main/Kirjasto2) — PHP · MySQL
-- 🕐 [Analog Clock](https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock) — HTML · CSS · JavaScript
-- 📅 [Calendar](https://github.com/matiasmasih/matiasmasih/tree/main/Calendar) — HTML · CSS · JavaScript
-- 📋 [Attendance App](https://github.com/matiasmasih/matiasmasih/tree/main/Attendance%20App) — HTML · CSS · JavaScript
-- 🏦 [Banking HTML](https://github.com/matiasmasih/matiasmasih/tree/main/Banking%20HTML) — HTML · CSS · JavaScript
-- 🍽️ [Restaurant](https://github.com/matiasmasih/matiasmasih/tree/main/Restaurant) — HTML · CSS · JavaScript
-- 🕐 [Clock and Calendar](https://github.com/matiasmasih/matiasmasih/tree/main/Clock%20and%20calendar) — HTML · CSS · JavaScript
-- 🕐 [Calendar and Clock](https://github.com/matiasmasih/matiasmasih/tree/main/calendar%20and%20clock) — HTML · CSS · JavaScript
-- 🕐 [Clock](https://github.com/matiasmasih/matiasmasih/tree/main/Clock) — HTML · CSS · JavaScript
-- 🕐 [Digital Clock](https://github.com/matiasmasih/matiasmasih/tree/main/digital%20clock) — HTML · CSS · JavaScript
-- 📆 [Mini Calendar](https://github.com/matiasmasih/matiasmasih/tree/main/Mini%20Calendar) — HTML · CSS · JavaScript
-- 📂 [JQuery](https://github.com/matiasmasih/matiasmasih/tree/main/JQuery) — JQuery · JavaScript · HTML
-- 📂 [Javascript](https://github.com/matiasmasih/matiasmasih/tree/main/Javascript) — JavaScript · HTML · CSS
-- 📂 [Data](https://github.com/matiasmasih/matiasmasih/tree/main/Data) — Various
-- 🐍 [Python Practice](https://github.com/matiasmasih/matiasmasih/tree/main/python_practice) — Python
-- 📄 [Attendans HTML](https://github.com/matiasmasih/matiasmasih/tree/main/Attendans%20HTML) — HTML
-
-</details>
 
 ---
 
-## 😄 Random Dev Joke
+## 🚀 Featured Projects
 
-<div align="center">
+### 🏥 Hospital Management System
+Comprehensive hospital management system with patient records, appointments, and billing.
 
-> 💻 *"Why do programmers prefer dark mode? Because light attracts bugs!"*
+**Tech Stack:** PHP · MySQL · Bootstrap · JavaScript
 
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management)**
+
+---
+
+### 📦 WarehousePro
+Complete warehouse and inventory management system with stock tracking and reporting.
+
+**Tech Stack:** PHP · MySQL · JavaScript · Bootstrap
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse)**
+
+---
+
+### 📚 Library Project
+Library management system for tracking books, members, and borrowings with fine calculation.
+
+**Tech Stack:** PHP · MySQL · HTML · CSS
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/library_project)**
+
+---
+
+### 💰 SmartBanking
+Banking management system with account creation, deposits, withdrawals, and transaction history.
+
+**Tech Stack:** PHP · MySQL · JavaScript · Bootstrap
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking)**
+
+---
+
+### 📂 KIRJASTO
+Main collection of small coding projects and utilities.
+
+**Tech Stack:** PHP · MySQL · HTML · CSS
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/KIRJASTO)**
+
+---
+
+### 📂 Kirjasto2
+Additional projects collection with various PHP exercises.
+
+**Tech Stack:** PHP · MySQL
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Kirjasto2)**
+
+---
+
+### 🕐 Analog Clock
+Simple analog clock widget built with HTML, CSS, and JavaScript.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock)**
+
+---
+
+### 📅 Calendar
+Interactive event calendar with date selection and navigation.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Calendar)**
+
+---
+
+### 📋 Attendance App
+Web-based attendance tracking system for students or employees.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Attendance%20App)**
+
+---
+
+### 🏦 Banking HTML
+Simulated banking interface with account management features.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Banking%20HTML)**
+
+---
+
+### 🍽️ Restaurant
+Restaurant management demo with menu and ordering system.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Restaurant)**
+
+---
+
+### 🕐 Clock and Calendar
+Combined clock and calendar widget for time and date display.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Clock%20and%20calendar)**
+
+---
+
+### 🕐 Calendar and Clock
+Another combined clock and calendar project.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/calendar%20and%20clock)**
+
+---
+
+### 🕐 Clock
+Standalone clock display with analog or digital format.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Clock)**
+
+---
+
+### 🕐 Digital Clock
+Digital clock display with real-time updating.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/digital%20clock)**
+
+---
+
+### 📆 Mini Calendar
+Small calendar widget with month navigation.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Mini%20Calendar)**
+
+---
+
+### 📂 JQuery
+Various JQuery practice projects and exercises.
+
+**Tech Stack:** JQuery · JavaScript · HTML
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/JQuery)**
+
+---
+
+### 📂 Javascript
+JavaScript practice projects and mini-applications.
+
+**Tech Stack:** JavaScript · HTML · CSS
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Javascript)**
+
+---
+
+### 📂 Data
+Data-related projects and exercises.
+
+**Tech Stack:** Various
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Data)**
+
+---
+
+### 🐍 Python Practice
+Python practice exercises and scripts for learning.
+
+**Tech Stack:** Python
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/python_practice)**
+
+---
+
+### 📄 Attendans HTML
+HTML-based attendance tracking project.
+
+**Tech Stack:** HTML
+
+**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Attendans%20HTML)**
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matiasmasih&color=blue&style=flat-square" />
+</p>
+
+---
+
+## 🏆 Profile Stats & Badges
+
+<div align="center" style="border:2px solid #1D3557; border-radius:15px; padding:20px; background: linear-gradient(135deg, #0d1117, #1a1a2e);">
+  <img src="https://komarev.com/ghpvc/?username=matiasmasih&label=👀%20Profile%20Views&color=1D3557&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻%20Focus-Web%20Development-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🛠%20Tools-VSCode%20|%20GitHub%20|%20PHPStorm-ff006e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📁%20Total%20Projects-20+-4A7C59?style=for-the-badge"/>
 </div>
+
+---
+
+## 📈 Dev Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻%20Lines%20of%20Code-50K+-4A7C59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📦%20Repositories-20+-1D3557?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌟%20Stars-10+-FFD93D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🍴%20Forks-5+-FF6B6B?style=for-the-badge"/>
+</p>
 
 ---
 
 ## ☕ Support Me
 
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/matiasmasih"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-00F5FF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0d1117"/></a>
-<a href="https://www.paypal.com/paypalme/matiasmasih"><img src="https://img.shields.io/badge/PayPal-00F5FF?style=for-the-badge&logo=paypal&logoColor=0d1117"/></a>
-
-</div>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/matiasmasih">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+  <a href="https://www.paypal.com/paypalme/matiasmasih">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 📱 Business Card
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="70%" style="border-radius:12px;" alt="Business Card"/>
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="100%" alt="Business Card"/>
 </p>
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=matiasmasih&label=Profile%20Views&color=00F5FF&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2b3e,100:0d1117&height=100&section=footer" width="100%"/>
-
-<i>Designed with ❤️ by Aziz Rahman Noyan</i>
-
-</div>
+<p align="center"><i>Designed with ❤️ using modern GitHub README techniques</i></p>
+ 
