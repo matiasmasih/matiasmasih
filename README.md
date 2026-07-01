@@ -505,9 +505,9 @@ HTML-based attendance tracking project.
 ## ☕ Support Me
 
 <p align="center">
- <p align="center">
-  📱 <b>MobilePay:</b> +358 41 3114312 &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/mobilepay-qr.jpeg" width="100" alt="QR Code"/>
-</p>
+  <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/mobilepay-qr.jpeg" target="_blank">
+     <img src="https://img.shields.io/badge/MobilePay-0055A4?style=for-the-badge&logo=mobilepay&logoColor=white"/>
+  </a>
   <a href="https://www.paypal.com/donate/matiasmasih@gmail.com&currency_code=EUR">
     <img src="https://img.shields.io/badge/Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
