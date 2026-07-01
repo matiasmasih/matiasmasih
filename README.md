@@ -62,7 +62,7 @@
 
 ---
 
-<!-- JOKE + TROPHIES SIDE BY SIDE -->
+<!-- JOKE + TROPHIES -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -97,22 +97,24 @@
 
 ---
 
-<!-- GITHUB STATS - FIXED -->
+<!-- GITHUB STATS + TOP LANGUAGES IN ONE ROW -->
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=default&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=default&hide_border=true" width="45%" />
-</p>
-
----
-
-<!-- TOP LANGUAGES - FIXED -->
-<h3 align="center">📊 Top Languages</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmasih&layout=compact&theme=default&hide_border=true" width="40%" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmasih&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=tokyonight&hide_border=true" width="70%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -147,43 +149,49 @@
 
 ---
 
-<!-- FEATURED PROJECTS -->
+<!-- FEATURED PROJECTS - STYLISH -->
 <h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:12px; border:2px solid #1D3557; width:33%;">
-        <b>🏥 Hospital Management</b><br>
+      <td align="center" style="padding:25px; background: linear-gradient(145deg, #0d1117, #1a1a2e); border-radius:15px; border:2px solid #00F5FF; width:33%; box-shadow: 0 0 20px rgba(0,245,255,0.05);">
+        <h3 style="color:#00F5FF; margin:0;">🏥</h3>
+        <b style="color:#ffffff;">Hospital Management</b><br>
         <span style="color:#888;">PHP · MySQL · Bootstrap</span><br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management" style="color:#00F5FF;">🔗 View Project</a>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management" style="color:#FF6B6B; text-decoration:none;">🔗 View Project →</a>
       </td>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:12px; border:2px solid #1D3557; width:33%;">
-        <b>📦 WarehousePro</b><br>
+      <td align="center" style="padding:25px; background: linear-gradient(145deg, #0d1117, #1a1a2e); border-radius:15px; border:2px solid #FF6B6B; width:33%; box-shadow: 0 0 20px rgba(255,107,107,0.05);">
+        <h3 style="color:#FF6B6B; margin:0;">📦</h3>
+        <b style="color:#ffffff;">WarehousePro</b><br>
         <span style="color:#888;">PHP · MySQL · JavaScript</span><br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse" style="color:#00F5FF;">🔗 View Project</a>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse" style="color:#00F5FF; text-decoration:none;">🔗 View Project →</a>
       </td>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:12px; border:2px solid #1D3557; width:33%;">
-        <b>📚 Library Project</b><br>
+      <td align="center" style="padding:25px; background: linear-gradient(145deg, #0d1117, #1a1a2e); border-radius:15px; border:2px solid #FFD93D; width:33%; box-shadow: 0 0 20px rgba(255,217,61,0.05);">
+        <h3 style="color:#FFD93D; margin:0;">📚</h3>
+        <b style="color:#ffffff;">Library Project</b><br>
         <span style="color:#888;">PHP · MySQL · HTML</span><br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/library_project" style="color:#00F5FF;">🔗 View Project</a>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/library_project" style="color:#FF6B6B; text-decoration:none;">🔗 View Project →</a>
       </td>
     </tr>
     <tr>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:12px; border:2px solid #1D3557; width:33%;">
-        <b>💰 SmartBanking</b><br>
+      <td align="center" style="padding:25px; background: linear-gradient(145deg, #0d1117, #1a1a2e); border-radius:15px; border:2px solid #6BCB77; width:33%; box-shadow: 0 0 20px rgba(107,203,119,0.05);">
+        <h3 style="color:#6BCB77; margin:0;">💰</h3>
+        <b style="color:#ffffff;">SmartBanking</b><br>
         <span style="color:#888;">PHP · MySQL · Bootstrap</span><br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking" style="color:#00F5FF;">🔗 View Project</a>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking" style="color:#00F5FF; text-decoration:none;">🔗 View Project →</a>
       </td>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:12px; border:2px solid #1D3557; width:33%;">
-        <b>🕐 Analog Clock</b><br>
+      <td align="center" style="padding:25px; background: linear-gradient(145deg, #0d1117, #1a1a2e); border-radius:15px; border:2px solid #9B59B6; width:33%; box-shadow: 0 0 20px rgba(155,89,182,0.05);">
+        <h3 style="color:#9B59B6; margin:0;">🕐</h3>
+        <b style="color:#ffffff;">Analog Clock</b><br>
         <span style="color:#888;">HTML · CSS · JavaScript</span><br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock" style="color:#00F5FF;">🔗 View Project</a>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock" style="color:#FFD93D; text-decoration:none;">🔗 View Project →</a>
       </td>
-      <td align="center" style="padding:20px; background:#0d1117; border-radius:12px; border:2px solid #1D3557; width:33%;">
-        <b>📅 Calendar</b><br>
+      <td align="center" style="padding:25px; background: linear-gradient(145deg, #0d1117, #1a1a2e); border-radius:15px; border:2px solid #E74C3C; width:33%; box-shadow: 0 0 20px rgba(231,76,60,0.05);">
+        <h3 style="color:#E74C3C; margin:0;">📅</h3>
+        <b style="color:#ffffff;">Calendar</b><br>
         <span style="color:#888;">HTML · CSS · JavaScript</span><br>
-        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Calendar" style="color:#00F5FF;">🔗 View Project</a>
+        <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Calendar" style="color:#00F5FF; text-decoration:none;">🔗 View Project →</a>
       </td>
     </tr>
   </table>
@@ -191,7 +199,7 @@
 
 ---
 
-<!-- ALL PROJECTS - COLLAPSIBLE -->
+<!-- ALL PROJECTS -->
 <details>
 <summary><b>🖥️ Frontend Projects</b></summary>
 
