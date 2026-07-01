@@ -107,7 +107,7 @@
 <h3 align="center">📊 Top Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmasih&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmasih&layout=compact&theme=dark&hide_border=true" width="45%" />
 </p>
 
 ---
