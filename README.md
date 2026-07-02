@@ -379,7 +379,7 @@
 
 <p align="center">
   <a href="https://github.com/matiasmasih/My-Projects" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/📂_Explore_All_Projects-2D3748?style=for-the badge&logo=github&logoColor=white&labelColor=6e5494&color=2D3748&logoWidth=30"/>
+    <img src="https://img.shields.io/badge/📂_Explore_All_Projects-2D3748?style=for-the-badge&logo=github&logoColor=white&labelColor=6e5494&color=2D3748&logoWidth=30"/>
   </a>
 </p>
 
