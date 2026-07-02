@@ -502,24 +502,25 @@ HTML-based attendance tracking project.
 
 ---
 
+##☕ Support Me 
+
 <p align="center">
   <h3 align="center">Support me</h3>
 </p>
-
-<p align="center">
+<div align="center">
   <details>
-    <summary style="cursor: pointer; font-size: 1.2em; font-weight: bold; color: #0055A4; padding: 10px 20px; border: 2px solid #0055A4; border-radius: 5px; display: inline-block; margin: 5px;">
-      📱 MobilePay
+    <summary>
+      <img src="https://img.shields.io/badge/MobilePay-0055A4?style=for-the-badge&logo=mobilepay&logoColor=white"/>
     </summary>
     <br>
     <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Mobilepay.jpeg" width="250" alt="MobilePay QR Code"/>
   </details>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <br><br>
 
   <details>
-    <summary style="cursor: pointer; font-size: 1.2em; font-weight: bold; color: #00457C; padding: 10px 20px; border: 2px solid #00457C; border-radius: 5px; display: inline-block; margin: 5px;">
-      💳 PayPal
+    <summary>
+      <img src="https://img.shields.io/badge/Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
     </summary>
     <br>
     <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Paypal.jpeg" width="250" alt="PayPal QR Code"/>
@@ -528,8 +529,7 @@ HTML-based attendance tracking project.
       <img src="https://img.shields.io/badge/Donate%20Online-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
     </a>
   </details>
-</p>
-
+</div>
 ---
 
 <p align="center"><i>Designed with ❤️ using modern GitHub README techniques</i></p>
