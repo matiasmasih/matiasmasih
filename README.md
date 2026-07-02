@@ -431,7 +431,7 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="350" alt="Business Card" style="border-radius: 25px; border: 5px solid #0ad9f6;"/>
+    <img src="https://img.shields.io/badge/📇_AZIZ_RAHMAN_NOYAN-View_Business_Card-6e5494?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3748"/>
   </a>
 </p>
 
