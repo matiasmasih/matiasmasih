@@ -285,192 +285,353 @@
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### 🏥 Hospital Management System
-Comprehensive hospital management system with patient records, appointments, and billing.
+> Comprehensive hospital management system with patient records, appointments, and billing.
 
-**Tech Stack:** PHP · MySQL · Bootstrap · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📦 WarehousePro
-Complete warehouse and inventory management system with stock tracking and reporting.
+> Complete warehouse and inventory management system with stock tracking and reporting.
 
-**Tech Stack:** PHP · MySQL · JavaScript · Bootstrap
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📚 Library Project
-Library management system for tracking books, members, and borrowings with fine calculation.
+> Library management system for tracking books, members, and borrowings with fine calculation.
 
-**Tech Stack:** PHP · MySQL · HTML · CSS
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/library_project)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/library_project">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 💰 SmartBanking
-Banking management system with account creation, deposits, withdrawals, and transaction history.
+> Banking management system with account creation, deposits, withdrawals, and transaction history.
 
-**Tech Stack:** PHP · MySQL · JavaScript · Bootstrap
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📂 KIRJASTO
-Main collection of small coding projects and utilities.
+> Main collection of small coding projects and utilities.
 
-**Tech Stack:** PHP · MySQL · HTML · CSS
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/KIRJASTO)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/KIRJASTO">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📂 Kirjasto2
-Additional projects collection with various PHP exercises.
+> Additional projects collection with various PHP exercises.
 
-**Tech Stack:** PHP · MySQL
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Kirjasto2)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Kirjasto2">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🎨 Frontend Projects
 
 ---
 
 ### 🕐 Analog Clock
-Simple analog clock widget built with HTML, CSS, and JavaScript.
+> Simple analog clock widget built with HTML, CSS, and JavaScript.
 
-**Tech Stack:** HTML · CSS · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📅 Calendar
-Interactive event calendar with date selection and navigation.
+> Interactive event calendar with date selection and navigation.
 
-**Tech Stack:** HTML · CSS · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Calendar)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Calendar">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📋 Attendance App
-Web-based attendance tracking system for students or employees.
+> Web-based attendance tracking system for students or employees.
 
-**Tech Stack:** HTML · CSS · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Attendance%20App)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Attendance%20App">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 🏦 Banking HTML
-Simulated banking interface with account management features.
+> Simulated banking interface with account management features.
 
-**Tech Stack:** HTML · CSS · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Banking%20HTML)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Banking%20HTML">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 🍽️ Restaurant
-Restaurant management demo with menu and ordering system.
+> Restaurant management demo with menu and ordering system.
 
-**Tech Stack:** HTML · CSS · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Restaurant)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Restaurant">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 🕐 Clock and Calendar
-Combined clock and calendar widget for time and date display.
+> Combined clock and calendar widget for time and date display.
 
-**Tech Stack:** HTML · CSS · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Clock%20and%20calendar)**
-
----
-
-### 🕐 Calendar and Clock
-Another combined clock and calendar project.
-
-**Tech Stack:** HTML · CSS · JavaScript
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/calendar%20and%20clock)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Clock%20and%20calendar">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 🕐 Clock
-Standalone clock display with analog or digital format.
+> Standalone clock display with analog or digital format.
 
-**Tech Stack:** HTML · CSS · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Clock)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Clock">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 🕐 Digital Clock
-Digital clock display with real-time updating.
+> Digital clock display with real-time updating.
 
-**Tech Stack:** HTML · CSS · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/digital%20clock)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/digital%20clock">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📆 Mini Calendar
-Small calendar widget with month navigation.
+> Small calendar widget with month navigation.
 
-**Tech Stack:** HTML · CSS · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Mini%20Calendar)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Mini%20Calendar">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📚 Practice & Learning
 
 ---
 
 ### 📂 JQuery
-Various JQuery practice projects and exercises.
+> Various JQuery practice projects and exercises.
 
-**Tech Stack:** JQuery · JavaScript · HTML
+<p align="center">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/JQuery)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/JQuery">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📂 Javascript
-JavaScript practice projects and mini-applications.
+> JavaScript practice projects and mini-applications.
 
-**Tech Stack:** JavaScript · HTML · CSS
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Javascript)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Javascript">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📂 Data
-Data-related projects and exercises.
+> Data-related projects and exercises.
 
-**Tech Stack:** Various
+<p align="center">
+  <img src="https://img.shields.io/badge/Various-Technologies-2D3748?style=for-the-badge"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Data)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Data">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 🐍 Python Practice
-Python practice exercises and scripts for learning.
+> Python practice exercises and scripts for learning.
 
-**Tech Stack:** Python
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/python_practice)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/python_practice">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📄 Attendans HTML
-HTML-based attendance tracking project.
+> HTML-based attendance tracking project.
 
-**Tech Stack:** HTML
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Attendans%20HTML)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Attendans%20HTML">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
