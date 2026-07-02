@@ -430,9 +430,10 @@
 ## 📱 Business Card
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="300" alt="Business Card" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+  <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" target="_blank">
+    <img src="https://img.shields.io/badge/📇_View_Business_Card-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 <p align="center"><i>Designed with ❤️ using modern GitHub README techniques</i></p>
