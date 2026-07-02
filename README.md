@@ -429,35 +429,61 @@
 ---
 ## 📱 Business Card
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" target="_blank">
-          <img src="https://img.shields.io/badge/📇_View_Business_Card-2D3748?style=for-the-badge&logo=github&logoColor=white&labelColor=6e5494"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:matiasmashl@gmail.com">
-          <img src="https://img.shields.io/badge/📧_Email-2D3748?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="tel:+358418114312">
-          <img src="https://img.shields.io/badge/📞_Phone-2D3748?style=for-the-badge&logo=phone&logoColor=white&labelColor=34A853"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/matiasmasih" target="_blank">
-          <img src="https://img.shields.io/badge/🐙_GitHub-2D3748?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" alt="Business Card Front" style="width:350px;border-radius:15px;">
+    </div>
+    <div class="flip-card-back">
+      <h2>Aziz Rahman Noyan</h2>
+      <p>+358418114312</p>
+      <p>matiasmashl@gmail.com</p>
+      <p>Vanhtokuja 5 E50 Vantaa</p>
+    </div>
+  </div>
+</div>
 
+<style>
+.flip-card {
+  background-color: transparent;
+  width: 350px;
+  height: 200px;
+  perspective: 1000px;
+  margin: 0 auto;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 15px;
+}
+
+.flip-card-front {
+  background-color: white;
+}
+
+.flip-card-back {
+  background-color: #6e5494;
+  color: white;
+  transform: rotateY(180deg);
+  padding: 20px;
+}
+</style>
 ---
 
 <p align="center"><i>Designed with ❤️ using modern GitHub README techniques</i></p>
