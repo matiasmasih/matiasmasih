@@ -501,20 +501,19 @@ HTML-based attendance tracking project.
 </p>
 
 ---
-
-## ☕ Support Me
+## ☕ Support Me 
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Mobilepay.jpeg" target="_blank">
-     <img src="https://img.shields.io/badge/MobilePay-0055A4?style=for-the-badge&logo=mobilepay&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MobilePay-0055A4?style=for-the-badge&logo=mobilepay&logoColor=white"/>
   </a>
-  <a href="https://www.paypal.com/donate/matiasmasih@gmail.com&currency_code=EUR">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Paypal.jpeg" target="_blank">
     <img src="https://img.shields.io/badge/Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
 </p>
 
 ---
-
 ## 📱 Business Card
 
 <p align="center">
