@@ -287,60 +287,6 @@
 
 <div align="center">
 
-### 🏥 Hospital Management System
-> Comprehensive hospital management system with patient records, appointments, and billing.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 📦 WarehousePro
-> Complete warehouse and inventory management system with stock tracking and reporting.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 📚 Library Project
-> Library management system for tracking books, members, and borrowings with fine calculation.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/library_project">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ### 💰 SmartBanking
 > Banking management system with account creation, deposits, withdrawals, and transaction history.
 
@@ -352,15 +298,33 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking">
+  <a href="https://github.com/matiasmasih/My-Projects/tree/main/SmartBanking">
     <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📂 KIRJASTO
-> Main collection of small coding projects and utilities.
+### 🚚 CourierPro Dashboard
+> Complete courier and delivery management dashboard with tracking and reporting.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/matiasmasih/My-Projects/tree/main/CourierPro%20Dashboard">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📚 KIRJASTO
+> Main collection of coding projects and utilities.
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -370,61 +334,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/KIRJASTO">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 📂 Kirjasto2
-> Additional projects collection with various PHP exercises.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Kirjasto2">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🎨 Frontend Projects
-
----
-
-### 🕐 Analog Clock
-> Simple analog clock widget built with HTML, CSS, and JavaScript.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 📅 Calendar
-> Interactive event calendar with date selection and navigation.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Calendar">
+  <a href="https://github.com/matiasmasih/My-Projects/tree/main/KIRJASTO">
     <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -441,162 +351,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Attendance%20App">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🏦 Banking HTML
-> Simulated banking interface with account management features.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Banking%20HTML">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🍽️ Restaurant
-> Restaurant management demo with menu and ordering system.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Restaurant">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🕐 Clock and Calendar
-> Combined clock and calendar widget for time and date display.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Clock%20and%20calendar">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🕐 Clock
-> Standalone clock display with analog or digital format.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Clock">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🕐 Digital Clock
-> Digital clock display with real-time updating.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/digital%20clock">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 📆 Mini Calendar
-> Small calendar widget with month navigation.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Mini%20Calendar">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📚 Practice & Learning
-
----
-
-### 📂 JQuery
-> Various JQuery practice projects and exercises.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/JQuery">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 📂 Javascript
-> JavaScript practice projects and mini-applications.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Javascript">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 📂 Data
-> Data-related projects and exercises.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Various-Technologies-2D3748?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Data">
+  <a href="https://github.com/matiasmasih/My-Projects/tree/main/Attendance%20App">
     <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -611,28 +366,22 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/python_practice">
+  <a href="https://github.com/matiasmasih/My-Projects/tree/main/python_practice">
     <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📄 Attendans HTML
-> HTML-based attendance tracking project.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matiasmasih/matiasmasih/tree/main/Attendans%20HTML">
-    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 </div>
 
+## 📂 **Explore All Projects**
+
+<p align="center">
+  <a href="https://github.com/matiasmasih/My-Projects">
+    <img src="https://img.shields.io/badge/📂_View_All_20+_Projects-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## 👀 Visitor Count
