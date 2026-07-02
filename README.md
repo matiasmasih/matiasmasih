@@ -99,8 +99,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matiasmasih&theme=dracula" />
 </p>                                                                                                                                   <p align="center">
   <!-- Card 3: Stats with circle design -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matiasmasih&theme=monokai" />                     <p align="center">                                                                  <!-- Card 4: Language stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matiasmasih&theme=synthwave" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matiasmasih&theme=monokai" />                     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matiasmasih&theme=radical" />
 </p>
 
 ---
