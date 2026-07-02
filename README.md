@@ -101,9 +101,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <!-- Card 3: Stats with circle design -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matiasmasih&theme=monokai" />
+
   <!-- Card 4: Language stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matiasmasih&theme=synthwave" />
 </p>
