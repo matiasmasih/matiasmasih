@@ -502,24 +502,32 @@ HTML-based attendance tracking project.
 
 ---
 
-## ☕ Support Me
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Mobilepay.jpeg" width="250" alt="MobilePay QR Code"/><br>
-  <b>MobilePay</b>
+  <h3 align="center">Support me</h3>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Paypal.jpeg" width="250" alt="PayPal QR Code"/><br>
-  <b>PayPal</b> - <a href="https://www.paypal.com/donate/matiasmasih@gmail.com&currency_code=EUR">Donate Online</a>
-</p>
+  <details>
+    <summary style="cursor: pointer; font-size: 1.2em; font-weight: bold; color: #0055A4; padding: 10px 20px; border: 2px solid #0055A4; border-radius: 5px; display: inline-block; margin: 5px;">
+      📱 MobilePay
+    </summary>
+    <br>
+    <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Mobilepay.jpeg" width="250" alt="MobilePay QR Code"/>
+  </details>
 
----
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-## 📱 Business Card
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="100%" alt="Business Card"/>
+  <details>
+    <summary style="cursor: pointer; font-size: 1.2em; font-weight: bold; color: #00457C; padding: 10px 20px; border: 2px solid #00457C; border-radius: 5px; display: inline-block; margin: 5px;">
+      💳 PayPal
+    </summary>
+    <br>
+    <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Paypal.jpeg" width="250" alt="PayPal QR Code"/>
+    <br><br>
+    <a href="https://www.paypal.com/donate/matiasmasih@gmail.com&currency_code=EUR">
+      <img src="https://img.shields.io/badge/Donate%20Online-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+    </a>
+  </details>
 </p>
 
 ---
