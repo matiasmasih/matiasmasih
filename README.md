@@ -503,22 +503,17 @@ HTML-based attendance tracking project.
 ---
 
 ## ☕ Support Me
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>📱 MobilePay</strong><br><br>
-      <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Mobilepay.jpeg" target="_blank">
-        <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Mobilepay.jpeg" width="250" alt="MobilePay QR Code"/>
-      </a>
-    </td>
-    <td align="center">
-      <strong>💳 PayPal</strong><br><br>
-      <a href="https://www.paypal.com/donate/matiasmasih@gmail.com&currency_code=EUR" target="_blank">
-        <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Paypal.jpeg" width="250" alt="PayPal QR Code"/>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Mobilepay.jpeg" width="250" alt="MobilePay QR Code"/><br>
+  <b>MobilePay</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Paypal.jpeg" width="250" alt="PayPal QR Code"/><br>
+  <b>PayPal</b> - <a href="https://www.paypal.com/donate/matiasmasih@gmail.com&currency_code=EUR">Donate Online</a>
+</p>
+
 ---
 
 ## 📱 Business Card
