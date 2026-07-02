@@ -431,16 +431,9 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" target="_blank">
-    <img src="https://img.shields.io/badge/📇_Business_Card-2D3748?style=for-the-badge&logo=github&logoColor=white&labelColor=6e5494"/>
-  </a>
-  <a href="mailto:matiasmashl@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-2D3748?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
-  </a>
-  <a href="tel:+358418114312">
-    <img src="https://img.shields.io/badge/📞_Call_Me-2D3748?style=for-the-badge&logo=phone&logoColor=white&labelColor=34A853"/>
+    <img src="https://img.shields.io/badge/✨_AZIZ_RAHMAN_NOYAN-View_Business_Card-2D3748?style=for-the-badge&logo=github&logoColor=white&labelColor=6e5494&color=ff69b4&logoWidth=30"/>
   </a>
 </p>
-
 
 ---
 
