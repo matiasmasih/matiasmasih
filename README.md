@@ -430,9 +430,8 @@
 ## 📱 Business Card
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="350" alt="Business Card" style="border-radius: 15px; border: 4px solid #6e5494;"/>
-  </a>
+ <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="350" alt="Business Card"/>
+>>>>>>> 46dc6fba5a8783b63b36015566f8551ce53b0f16
 </p>
 
 ---
