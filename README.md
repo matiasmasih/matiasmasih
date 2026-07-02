@@ -430,8 +430,17 @@
 ## 📱 Business Card
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="350" alt="Business Card" style="border-radius: 10px; border: 2px solid #ddd;"/>
+  <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" target="_blank">
+    <img src="https://img.shields.io/badge/📇_Business_Card-2D3748?style=for-the-badge&logo=github&logoColor=white&labelColor=6e5494"/>
+  </a>
+  <a href="mailto:matiasmashl@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email_Me-2D3748?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+  <a href="tel:+358418114312">
+    <img src="https://img.shields.io/badge/📞_Call_Me-2D3748?style=for-the-badge&logo=phone&logoColor=white&labelColor=34A853"/>
+  </a>
 </p>
+
 
 ---
 
