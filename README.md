@@ -431,7 +431,6 @@
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="350" alt="Business Card"/>
->>>>>>> 46dc6fba5a8783b63b36015566f8551ce53b0f16
 </p>
 
 ---
