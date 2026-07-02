@@ -427,6 +427,30 @@
 </p>
 
 ---
+
+## 🔒 Security
+
+<p align="center">
+  <a href="SECURITY.md">
+    <img src="https://img.shields.io/badge/📜_Security_Policy-View_Policy-6e5494?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3748"/>
+  </a>
+  <a href="mailto:matiasmashl@gmail.com">
+    <img src="https://img.shields.io/badge/⚠️_Report_Issue-Email_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D3748"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🛡️_Responsible_Disclosure-Yes-34A853?style=flat-square"/>
+  <img src="https://img.shields.io/badge/⏱️_Response_Time-48_Hours-34A853?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🔐_Security_Updates-Active-34A853?style=flat-square"/>
+</p>
+
+<p align="center">
+  <i>Your security matters. Report vulnerabilities responsibly.</i>
+</p>
+
+---
+
 ## 📱 Business Card
 
 <p align="center">
