@@ -430,8 +430,11 @@
 ## 📱 Business Card
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="350" alt="Business Card"/>
+  <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/border.svg" width="360" alt="Business Card"/>
+  </a>
 </p>
+
 ---
 
 <p align="center"><i>Designed with ❤️ using modern GitHub README techniques</i></p>
