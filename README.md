@@ -501,8 +501,7 @@ HTML-based attendance tracking project.
 </p>
 
 ---
-
-##☕ Support Me 
+## ☕ Support Me 
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Mobilepay.jpeg" target="_blank">
@@ -515,10 +514,10 @@ HTML-based attendance tracking project.
 </p>
 
 ---
-### Business Card 
+## 📱 Business Card
 
 <p align="center">
-  <img src="your-business-card-image" width="400" alt="Business Card"/>
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="100%" alt="Business Card"/>
 </p>
 
 ---
