@@ -508,18 +508,10 @@ HTML-based attendance tracking project.
   <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Mobilepay.jpeg" target="_blank">
     <img src="https://img.shields.io/badge/MobilePay-0055A4?style=for-the-badge&logo=mobilepay&logoColor=white"/>
   </a>
-  
   &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.paypal.com/donate/matiasmasih@gmail.com&currency_code=EUR" target="_blank">
+  <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Paypal.jpeg" target="_blank">
     <img src="https://img.shields.io/badge/Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Mobilepay.jpeg" width="200" alt="MobilePay"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Paypal.jpeg" width="200" alt="PayPal"/>
 </p>
 
 ---
