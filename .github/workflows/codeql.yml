@@ -31,19 +31,6 @@ jobs:
       uses: github/codeql-action/init@v4
       with:
         languages: ${{ matrix.language }}
-        # Explicitly tell CodeQL which directories to scan
-        config: |
-          paths:
-            - .
-            - src
-            - databases
-            - websites
-            - KIRJASTO
-            - SmartBanking
-          paths-ignore:
-            - '**/node_modules'
-            - '**/*.test.js'
-            - '**/*.spec.js'
 
     - name: Autobuild
       uses: github/codeql-action/autobuild@v4
