@@ -431,9 +431,10 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="350" alt="Business Card" style="border-radius: 15px; border: 4px solid #6e5494;"/>
+    <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="350" alt="Business Card" style="border-radius: 25px; border: 5px solid #0ad9f6;"/>
   </a>
 </p>
+
 ---
 
 <p align="center"><i>Designed with ❤️ using modern GitHub README techniques</i></p>
