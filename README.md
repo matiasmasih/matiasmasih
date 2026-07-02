@@ -94,15 +94,12 @@
 ---
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
-  <!-- Card 2: Streak Stats with different design -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=radical&hide_border=true" />
-</p>
-
-
-  <!-- Card 4: Language stats -->
+  <!-- Card 1: Profile Details (shows everything in one card) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matiasmasih&theme=dracula" />
+</p>                                                                                                                                   <p align="center">
+  <!-- Card 3: Stats with circle design -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matiasmasih&theme=monokai" />                     <p align="center">                                                                  <!-- Card 4: Language stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matiasmasih&theme=synthwave" />
 </p>
 
