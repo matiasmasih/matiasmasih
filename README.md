@@ -94,10 +94,11 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=github_dark&hide_border=true" width="400" />
-  <img src="https://streak-stats.demolab.com?user=matiasmasih&theme=dark&hide_border=true" width="400" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=github_dark&hide_border=true" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=matiasmasih&theme=dark&hide_border=true" />
+</div>
 
 ---
 
