@@ -429,34 +429,9 @@
 ---
 ## 📱 Business Card
 
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="210" viewBox="0 0 360 210">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF6B6B;stop-opacity:1" />
-      <stop offset="25%" style="stop-color:#4ECDC4;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#FF6B6B;stop-opacity:1" />
-      <stop offset="75%" style="stop-color:#4ECDC4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FF6B6B;stop-opacity:1" />
-      <animate attributeName="x1" from="0%" to="100%" dur="3s" repeatCount="indefinite" />
-      <animate attributeName="x2" from="100%" to="0%" dur="3s" repeatCount="indefinite" />
-    </linearGradient>
-    <clipPath id="clip1">
-      <rect x="5" y="5" width="350" height="200" rx="15" ry="15"/>
-    </clipPath>
-  </defs>
-  
-  <!-- Animated gradient border -->
-  <rect width="360" height="210" rx="15" ry="15" fill="url(#grad1)">
-    <animate attributeName="opacity" from="1" to="1" dur="0.1s" fill="freeze" />
-  </rect>
-  
-  <!-- Business card image -->
-  <image href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" 
-         x="5" y="5" width="350" height="200" 
-         clip-path="url(#clip1)" 
-         preserveAspectRatio="xMidYMid slice"/>
-</svg>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="350" alt="Business Card"/>
+</p>
 ---
 
 <p align="center"><i>Designed with ❤️ using modern GitHub README techniques</i></p>
