@@ -92,13 +92,15 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
- <img src="https://github-readme-stats.vercel.app/api?username=matiasmasih&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiasmasih&theme=dark&hide_border=true" width="48%" />
-</div>
+<p align="center">
+  <!-- Card 1: Profile Details (shows everything in one card) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matiasmasih&theme=dracula" />
+</p>                                                                                                                                   <p align="center">
+  <!-- Card 3: Stats with circle design -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matiasmasih&theme=monokai" />                     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matiasmasih&theme=radical" />
+</p>
 
 ---
 
@@ -283,192 +285,103 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 Hospital Management System
-Comprehensive hospital management system with patient records, appointments, and billing.
-
-**Tech Stack:** PHP · MySQL · Bootstrap · JavaScript
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/hospital_management)**
-
----
-
-### 📦 WarehousePro
-Complete warehouse and inventory management system with stock tracking and reporting.
-
-**Tech Stack:** PHP · MySQL · JavaScript · Bootstrap
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Warehouse)**
-
----
-
-### 📚 Library Project
-Library management system for tracking books, members, and borrowings with fine calculation.
-
-**Tech Stack:** PHP · MySQL · HTML · CSS
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/library_project)**
-
----
+<div align="center">
 
 ### 💰 SmartBanking
-Banking management system with account creation, deposits, withdrawals, and transaction history.
+> Banking management system with account creation, deposits, withdrawals, and transaction history.
 
-**Tech Stack:** PHP · MySQL · JavaScript · Bootstrap
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/SmartBanking)**
-
----
-
-### 📂 KIRJASTO
-Main collection of small coding projects and utilities.
-
-**Tech Stack:** PHP · MySQL · HTML · CSS
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/KIRJASTO)**
-
----
-
-### 📂 Kirjasto2
-Additional projects collection with various PHP exercises.
-
-**Tech Stack:** PHP · MySQL
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Kirjasto2)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/My-Projects/tree/main/SmartBanking">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🕐 Analog Clock
-Simple analog clock widget built with HTML, CSS, and JavaScript.
+### 🚚 CourierPro Dashboard
+> Complete courier and delivery management dashboard with tracking and reporting.
 
-**Tech Stack:** HTML · CSS · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Analog%20clock)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/My-Projects/tree/main/CourierPro%20Dashboard">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 📅 Calendar
-Interactive event calendar with date selection and navigation.
+### 📚 KIRJASTO
+> Main collection of coding projects and utilities.
 
-**Tech Stack:** HTML · CSS · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Calendar)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/My-Projects/tree/main/KIRJASTO">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📋 Attendance App
-Web-based attendance tracking system for students or employees.
+> Web-based attendance tracking system for students or employees.
 
-**Tech Stack:** HTML · CSS · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Attendance%20App)**
-
----
-
-### 🏦 Banking HTML
-Simulated banking interface with account management features.
-
-**Tech Stack:** HTML · CSS · JavaScript
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Banking%20HTML)**
-
----
-
-### 🍽️ Restaurant
-Restaurant management demo with menu and ordering system.
-
-**Tech Stack:** HTML · CSS · JavaScript
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Restaurant)**
-
----
-
-### 🕐 Clock and Calendar
-Combined clock and calendar widget for time and date display.
-
-**Tech Stack:** HTML · CSS · JavaScript
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Clock%20and%20calendar)**
-
----
-
-### 🕐 Calendar and Clock
-Another combined clock and calendar project.
-
-**Tech Stack:** HTML · CSS · JavaScript
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/calendar%20and%20clock)**
-
----
-
-### 🕐 Clock
-Standalone clock display with analog or digital format.
-
-**Tech Stack:** HTML · CSS · JavaScript
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Clock)**
-
----
-
-### 🕐 Digital Clock
-Digital clock display with real-time updating.
-
-**Tech Stack:** HTML · CSS · JavaScript
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/digital%20clock)**
-
----
-
-### 📆 Mini Calendar
-Small calendar widget with month navigation.
-
-**Tech Stack:** HTML · CSS · JavaScript
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Mini%20Calendar)**
-
----
-
-### 📂 JQuery
-Various JQuery practice projects and exercises.
-
-**Tech Stack:** JQuery · JavaScript · HTML
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/JQuery)**
-
----
-
-### 📂 Javascript
-JavaScript practice projects and mini-applications.
-
-**Tech Stack:** JavaScript · HTML · CSS
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Javascript)**
-
----
-
-### 📂 Data
-Data-related projects and exercises.
-
-**Tech Stack:** Various
-
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Data)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/My-Projects/tree/main/Attendance%20App">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 🐍 Python Practice
-Python practice exercises and scripts for learning.
+> Python practice exercises and scripts for learning.
 
-**Tech Stack:** Python
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/python_practice)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/My-Projects/tree/main/python_practice">
+    <img src="https://img.shields.io/badge/🔗_View_Project-2D3748?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 📄 Attendans HTML
-HTML-based attendance tracking project.
+</div>
 
-**Tech Stack:** HTML
+## 📂 **Explore All Projects**
 
-**🔗 [View Project](https://github.com/matiasmasih/matiasmasih/tree/main/Attendans%20HTML)**
+<p align="center">
+  <a href="https://github.com/matiasmasih/My-Projects" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📂_Explore_All_Projects-2D3748?style=for-the-badge&logo=github&logoColor=white&labelColor=6e5494&color=2D3748&logoWidth=30"/>
+  </a>
+</p>
 
 ---
 
@@ -517,7 +430,9 @@ HTML-based attendance tracking project.
 ## 📱 Business Card
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="100%" alt="Business Card"/>
+  <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/assets/Business-card.jpg" width="350" alt="Business Card" style="border-radius: 15px; border: 3px solid #6e5494; box-shadow: 0 4px 15px rgba(110, 84, 148, 0.3);"/>
+  </a>
 </p>
 
 ---
