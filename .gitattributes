@@ -1,0 +1,4 @@
+*.py linguist-language=Python
+*.js linguist-language=JavaScript
+*.ts linguist-language=TypeScript
+*.php linguist-language=PHP
