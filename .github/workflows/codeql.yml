@@ -35,6 +35,7 @@ jobs:
         config: |
           paths:
             - .
+            - src
             - databases
             - websites
             - KIRJASTO
