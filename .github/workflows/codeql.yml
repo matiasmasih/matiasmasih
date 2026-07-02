@@ -1,0 +1,88 @@
+# For most projects, this workflow file will not need changing; you simply need
+# to commit it to your repository.
+#
+# You may wish to alter this file to override the set of languages analyzed,
+# or to provide custom queries or build logic.
+#
+# ******** NOTE ********
+# We have attempted to detect the languages in your repository. Please check
+# the `language` matrix defined below to confirm you have the correct set of
+# supported CodeQL languages.
+#
+name: "CodeQL Advanced"
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    - cron: '45 3 * * 1'  # Runs every Monday at 3:45 AM
+
+jobs:
+  analyze:
+    name: Analyze (${{ matrix.language }})
+    runs-on: 'ubuntu-latest'
+    permissions:
+      security-events: write
+      packages: read
+      actions: read
+      contents: read
+
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          # Add only the languages that are actually in your repository
+          - language: 'javascript-typescript'
+            build-mode: 'none'
+          - language: 'python'
+            build-mode: 'none'
+          # - language: 'php'  # PHP is not directly supported by CodeQL, but you can keep it
+          #   build-mode: 'manual'
+          # - language: 'c-cpp'  # Only if you have C/C++ code
+          #   build-mode: 'none'
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    # Setup for Node.js (if you have JavaScript projects)
+    - name: Setup Node.js
+      if: matrix.language == 'javascript-typescript'
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+
+    # Setup for Python (if you have Python projects)
+    - name: Setup Python
+      if: matrix.language == 'python'
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.9'
+
+    # Install dependencies for JavaScript
+    - name: Install JavaScript dependencies
+      if: matrix.language == 'javascript-typescript'
+      run: |
+        # Find all package.json files and install dependencies
+        find . -name "package.json" -execdir npm install \;
+
+    # Install dependencies for Python
+    - name: Install Python dependencies
+      if: matrix.language == 'python'
+      run: |
+        # Install requirements if they exist
+        find . -name "requirements.txt" -execdir pip install -r {} \;
+
+    - name: Initialize CodeQL
+      uses: github/codeql-action/init@v4
+      with:
+        languages: ${{ matrix.language }}
+        build-mode: ${{ matrix.build-mode }}
+        queries: security-extended,security-and-quality
+
+    - name: Perform CodeQL Analysis
+      uses: github/codeql-action/analyze@v4
+      with:
+        category: "/language:${{matrix.language}}"
