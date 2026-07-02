@@ -505,31 +505,30 @@ HTML-based attendance tracking project.
 ##☕ Support Me 
 
 <p align="center">
-  <h3 align="center">Support me</h3>
+  <a href="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Mobilepay.jpeg" target="_blank">
+    <img src="https://img.shields.io/badge/MobilePay-0055A4?style=for-the-badge&logo=mobilepay&logoColor=white"/>
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.paypal.com/donate/matiasmasih@gmail.com&currency_code=EUR" target="_blank">
+    <img src="https://img.shields.io/badge/Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
 </p>
-<div align="center">
-  <details>
-    <summary>
-      <img src="https://img.shields.io/badge/MobilePay-0055A4?style=for-the-badge&logo=mobilepay&logoColor=white"/>
-    </summary>
-    <br>
-    <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Mobilepay.jpeg" width="250" alt="MobilePay QR Code"/>
-  </details>
 
-  <br><br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Mobilepay.jpeg" width="200" alt="MobilePay"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Paypal.jpeg" width="200" alt="PayPal"/>
+</p>
 
-  <details>
-    <summary>
-      <img src="https://img.shields.io/badge/Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-    </summary>
-    <br>
-    <img src="https://raw.githubusercontent.com/matiasmasih/matiasmasih/main/Paypal.jpeg" width="250" alt="PayPal QR Code"/>
-    <br><br>
-    <a href="https://www.paypal.com/donate/matiasmasih@gmail.com&currency_code=EUR">
-      <img src="https://img.shields.io/badge/Donate%20Online-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-    </a>
-  </details>
-</div>
+---
+### Business Card 
+
+<p align="center">
+  <img src="your-business-card-image" width="400" alt="Business Card"/>
+</p>
+
 ---
 
 <p align="center"><i>Designed with ❤️ using modern GitHub README techniques</i></p>
