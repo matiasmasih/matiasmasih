@@ -94,10 +94,7 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Card 1: Profile Details (shows everything in one card) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matiasmasih&theme=dracula" />
-</p>
+
 
 <p align="center">
   <!-- Card 2: Streak Stats with different design -->
